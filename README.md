@@ -10,6 +10,7 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 <br>
 <br>
+<br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures) `2 hrs`/`Lecture`
 
@@ -122,6 +123,16 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) `10 hrs`/`Project`
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
