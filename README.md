@@ -2,21 +2,18 @@
 
 Programming Languages and Object Oriented Training for computer science students.
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<br>
-<br>
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<br>
-<br>
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+
 <br>
 <br>
 
-## `Part 1` Python Basics and Functions
+### `Part 1` Python Basics and Functions
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 01` - [Overview]()
+#### `Lecture 01` - [Overview]()
 <details>
   <summary>Agenda</summary><br>
   - History of Python
@@ -27,7 +24,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Quotation and Comments
 </details>
 
-### `Lecture 02` - [Variable Types]()
+#### `Lecture 02` - [Variable Types]()
 <details>
   <summary>Agenda</summary><br>
   - Python Variables
@@ -40,7 +37,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Data Type Conversion
 </details>
 
-### `Lecture 03` - [Basic Operations]()
+#### `Lecture 03` - [Basic Operations]()
 <details>
   <summary>Agenda</summary><br>
   - Arithmetic Operators
@@ -53,7 +50,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Operators Precedence
 </details>
 
-### `Lecture 04` - [Conditions]()
+#### `Lecture 04` - [Conditions]()
 <details>
   <summary>Agenda</summary><br>
   - Decision making Definition
@@ -64,7 +61,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Single Statement Suites
 </details>
 
-### `Lecture 05` - [Loops]()
+#### `Lecture 05` - [Loops]()
 <details>
   <summary>Agenda</summary><br>
   - Loop Definition
@@ -76,7 +73,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Nested Loops
 </details>
 
-### `Lecture 06` - [Functions]()
+#### `Lecture 06` - [Functions]()
 <details>
   <summary>Agenda</summary><br>
   - Function Definition
@@ -89,11 +86,11 @@ Programming Languages and Object Oriented Training for computer science students
   - Global and Local Variables
 </details>
 
-## `Part 2` Python Collections and Strings
+### `Part 2` Python Collections and Strings
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 07` - [Strings]()
+#### `Lecture 07` - [Strings]()
 <details>
   <summary>Agenda</summary><br>
   - Introduction to String
@@ -103,7 +100,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Built-in String Functions
 </details>
 
-### `Lecture 08` - [Lists]()
+#### `Lecture 08` - [Lists]()
 <details>
   <summary>Agenda</summary><br>
   - Introduction to List
@@ -113,7 +110,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Built-in List Functions
 </details>
 
-### `Lecture 09` - [Tuples]()
+#### `Lecture 09` - [Tuples]()
 <details>
   <summary>Agenda</summary><br>
   - Introduction to Tuple
@@ -123,7 +120,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Built-in Tuple Functions
 </details>
 
-### `Lecture 10` - [Dictionaries]()
+#### `Lecture 10` - [Dictionaries]()
 <details>
   <summary>Agenda</summary><br>
   - Introduction to Dictionary
@@ -133,7 +130,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Built-in Dictionary Functions
 </details>
 
-### `Lecture 11` - [Sets]()
+#### `Lecture 11` - [Sets]()
 <details>
   <summary>Agenda</summary><br>
   - Introduction to Set
@@ -143,7 +140,7 @@ Programming Languages and Object Oriented Training for computer science students
   - Built-in Set Functions
 </details>
 
-### `Lecture 12` - [Numbers]()
+#### `Lecture 12` - [Numbers]()
 <details>
   <summary>Agenda</summary><br>
   - Numbers in Python
@@ -153,6 +150,8 @@ Programming Languages and Object Oriented Training for computer science students
   - Itertools Module
 </details>
 
+<br>
+<br>
 
 ## [`Assignments`]() `10 hrs`/`Assignment`
 
@@ -169,6 +168,8 @@ Programming Languages and Object Oriented Training for computer science students
 ### `Assignment 09` - String Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 ### `Assignment 10` - List Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 
+<br>
+<br>
 
 ## [`Educational-Projects`]() `10 hrs`/`Project`
 
