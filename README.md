@@ -9,146 +9,23 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 <br>
 
-### `Part 1` Python Basics and Functions
-
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
+### `Part 1` Python Basics and Functions
 #### `Lecture 01` - [Overview]()
-<details>
-  <summary>Agenda</summary><br>
-  - History of Python
-  - Interpreter vs. Compiler
-  - Python Identifiers and Reserved Words
-  - Lines and Indentation
-  - Multiline Statements
-  - Quotation and Comments
-</details>
-
 #### `Lecture 02` - [Variable Types]()
-<details>
-  <summary>Agenda</summary><br>
-  - Python Variables
-  - Python Numbers
-  - Python Strings
-  - Python Lists
-  - Python Tuples
-  - Python Dictionaries
-  - Python Sets
-  - Data Type Conversion
-</details>
-
 #### `Lecture 03` - [Basic Operations]()
-<details>
-  <summary>Agenda</summary><br>
-  - Arithmetic Operators
-  - Comparison Operators
-  - Bitwise Operators
-  - Assignment Operators
-  - Logical Operators
-  - Membership Operators
-  - Identity Operators
-  - Operators Precedence
-</details>
-
 #### `Lecture 04` - [Conditions]()
-<details>
-  <summary>Agenda</summary><br>
-  - Decision making Definition
-  - IF Statement
-  - IF and ELSE Statements
-  - IF, ELIF and ELSE Statements
-  - Nested IF Statements
-  - Single Statement Suites
-</details>
-
 #### `Lecture 05` - [Loops]()
-<details>
-  <summary>Agenda</summary><br>
-  - Loop Definition
-  - While Loop Statements
-  - For Loop Statements
-  - Loop Control Statements
-  - Else with While Loop
-  - Else with For Loop
-  - Nested Loops
-</details>
-
 #### `Lecture 06` - [Functions]()
-<details>
-  <summary>Agenda</summary><br>
-  - Function Definition
-  - Function Calls and Return Statement
-  - Passing by Reference and Value
-  - Function Arguments
-  - Higher Order Functions
-  - Anonymous Functions
-  - Inner Functions
-  - Global and Local Variables
-</details>
 
 ### `Part 2` Python Collections and Strings
-
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-
 #### `Lecture 07` - [Strings]()
-<details>
-  <summary>Agenda</summary><br>
-  - Introduction to String
-  - Basic String Operations
-  - String Special Operators
-  - String Formatting Operator
-  - Built-in String Functions
-</details>
-
 #### `Lecture 08` - [Lists]()
-<details>
-  <summary>Agenda</summary><br>
-  - Introduction to List
-  - Basic List Operations
-  - List Comprehension
-  - Multidimensional Lists
-  - Built-in List Functions
-</details>
-
 #### `Lecture 09` - [Tuples]()
-<details>
-  <summary>Agenda</summary><br>
-  - Introduction to Tuple
-  - Basic Tuple Operations
-  - Tuple Comprehension
-  - Multidimensional Tuple
-  - Built-in Tuple Functions
-</details>
-
 #### `Lecture 10` - [Dictionaries]()
-<details>
-  <summary>Agenda</summary><br>
-  - Introduction to Dictionary
-  - Basic Dictionary Operations
-  - Dictionary Comprehension
-  - Properties of Dictionary keys
-  - Built-in Dictionary Functions
-</details>
-
 #### `Lecture 11` - [Sets]()
-<details>
-  <summary>Agenda</summary><br>
-  - Introduction to Set
-  - Basic Set Operations
-  - Set Comprehension
-  - Set Relations
-  - Built-in Set Functions
-</details>
-
 #### `Lecture 12` - [Numbers]()
-<details>
-  <summary>Agenda</summary><br>
-  - Numbers in Python
-  - Math Module
-  - Fractions Module
-  - Random Module
-  - Itertools Module
-</details>
 
 <br>
 <br>
