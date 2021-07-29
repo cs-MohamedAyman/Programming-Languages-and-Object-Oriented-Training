@@ -17,7 +17,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ### `Python Programming Language` Lectures
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 1` Python Basics and Functions
 #### `Lecture 01` - [Overview]()
@@ -27,7 +27,7 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 05` - [Loops]()
 #### `Lecture 06` - [Functions]()
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 2` Python Collections and Strings
 #### `Lecture 07` - [Strings]()
@@ -39,7 +39,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ### `Cpp Programming Language` Lectures
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 1` C++ Basics and Pointers
 #### `Lecture 01` - [Overview]()
@@ -49,7 +49,7 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 05` - [Loops]()
 #### `Lecture 06` - [Pointers and References]()
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 2` C++ Arrays and Functions
 #### `Lecture 07` - [Arrays]()
@@ -61,7 +61,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ### `Object Oriented` Lectures
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 1` Object Oriented Programming
 #### `Lecture 01` - [Object Oriented Overview]()
@@ -69,7 +69,7 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 03` - [Operator Overloading and Function Overloading]()
 #### `Lecture 04` - [Inheritance and Function Overriding]()
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Part 2` Files and Standard Libraries
 #### `Lecture 05` - [Polymorphism and Abstract Class]()
@@ -84,7 +84,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ### `Programming Languages` Assignments
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
 #### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
 #### `Assignment 02` - Condition Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
@@ -96,6 +96,9 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Assignment 08` - Loop Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 #### `Assignment 09` - String Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 #### `Assignment 10` - List/Array Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
+
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+
 #### `Assignment 11` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
 #### `Assignment 12` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
 #### `Assignment 13` - Loop Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
