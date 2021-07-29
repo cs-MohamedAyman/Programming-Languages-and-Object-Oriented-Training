@@ -97,6 +97,10 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Assignment 09` - String Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 #### `Assignment 10` - List/Array Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 
+<br>
+
+### `Programming Languages` Assignments
+
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
 #### `Assignment 11` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
@@ -189,7 +193,6 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Introduction to Computer Science and Programming Specialization*** by University of London
 * ***Introduction to Scripting in Python Specialization*** by Rice University
 * ***Python 3 Programming Specialization*** by University of Michigan
-* ***Learn to Program: Crafting Quality Code*** by University of Toronto
 * ***Fundamentals of Computing Specialization*** by Rice University
 * ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
 
