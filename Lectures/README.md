@@ -13,6 +13,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ## `Python Programming Language` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Python Basics and Functions
@@ -96,6 +97,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Higher Order Functions
 </details>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Python Collections and Strings
@@ -168,6 +170,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ## `Cpp Programming Language` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` C++ Basics and Pointers
@@ -245,6 +248,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Reference Variables
 </details>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` C++ Arrays and Functions
@@ -327,6 +331,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ## `Object Oriented` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Object Oriented Programming
@@ -380,6 +385,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Aggregation Relationship
 </details>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Files and Standard Libraries
