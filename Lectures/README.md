@@ -10,8 +10,6 @@ Programming Languages and Object Oriented Training Lectures for computer science
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## `Python Programming Language` Lectures
 
