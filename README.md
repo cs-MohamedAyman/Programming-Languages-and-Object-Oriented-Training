@@ -10,8 +10,6 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures) `2 hrs`/`Lecture`
 
