@@ -129,7 +129,7 @@ Programming Languages and Object Oriented Training for computer science students
 |`Project 21` | `Project 22` | `Project 23` | `Project 24` |
 |:----:|:----:|:----:|:----:|
 | [Bank System]() | [Champions League System]() | [Hospital System]() | [Project Management System]() |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
+|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
 
 |`Project 25` | `Project 26` | `Project 27` | `Project 28` |
 |:----:|:----:|:----:|:----:|
