@@ -15,9 +15,10 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Lectures`]() `2 hrs`/`Lecture`
 
+### `Python Programming Language` Lectures
+
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Python Programming Language` Lectures
 ### `Part 1` Python Basics and Functions
 #### `Lecture 01` - [Overview]()
 #### `Lecture 02` - [Variable Types]()
@@ -25,6 +26,9 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 04` - [Conditions]()
 #### `Lecture 05` - [Loops]()
 #### `Lecture 06` - [Functions]()
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
 ### `Part 2` Python Collections and Strings
 #### `Lecture 07` - [Strings]()
 #### `Lecture 08` - [Lists]()
@@ -33,9 +37,10 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 11` - [Sets]()
 #### `Lecture 12` - [Numbers]()
 
+### `Cpp Programming Language` Lectures
+
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Cpp Programming Language` Lectures
 ### `Part 1` C++ Basics and Pointers
 #### `Lecture 01` - [Overview]()
 #### `Lecture 02` - [Variable Types]()
@@ -43,6 +48,9 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 04` - [Conditions]()
 #### `Lecture 05` - [Loops]()
 #### `Lecture 06` - [Pointers and References]()
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
 ### `Part 2` C++ Arrays and Functions
 #### `Lecture 07` - [Arrays]()
 #### `Lecture 08` - [Functions]()
@@ -51,14 +59,18 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 11` - [Enumerations and Unions]()
 #### `Lecture 12` - [Numbers]()
 
+### `Object Oriented` Lectures
+
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Object Oriented` Lectures
 ### `Part 1` Object Oriented Programming
 #### `Lecture 01` - [Object Oriented Overview]()
 #### `Lecture 02` - [Data Encapsulation]()
 #### `Lecture 03` - [Operator Overloading and Function Overloading]()
 #### `Lecture 04` - [Inheritance and Function Overriding]()
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
 ### `Part 2` Files and Standard Libraries
 #### `Lecture 05` - [Polymorphism and Abstract Class]()
 #### `Lecture 06` - [Modules and Standard Libraries]()
@@ -70,9 +82,10 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Assignments`]() `10 hrs`/`Assignment`
 
+### `Programming Languages` Assignments
+
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
-### `Python Programming Language and Cpp Programming Language` Assignments
 #### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
 #### `Assignment 02` - Condition Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
 #### `Assignment 03` - Loop Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
@@ -99,47 +112,47 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Educational-Projects`]() `10 hrs`/`Project`
 
-<img align="middle" width="720" height="180" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
 | [Tic Tac Toe Game]() | [Connect Four Game]() | [Gomoku Game]() | [8 Puzzle Game]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg">|
 
 |`Project 05` | `Project 06` | `Project 07` | `Project 08` |
 |:----:|:----:|:----:|:----:|
 | [SOS Game]() | [Dots and Boxes Game]() | [Snakes and Ladders Game]() | [Sudoku Game]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg">|
 
 |`Project 09` | `Project 10` | `Project 11` | `Project 12` |
 |:----:|:----:|:----:|:----:|
 | [Match Cards Game]() | [Reversi Game]() | [Draughts Game]() | [Minesweeper Game]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg">|
 
 |`Project 13` | `Project 14` | `Project 15` | `Project 16` |
 |:----:|:----:|:----:|:----:|
 | [2048 Game]() | [Ultimate Tic Tac Toe Game]() | [Battleship Game]() | [Multi Sudoku Game]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg">|
 
 |`Project 17` | `Project 18` | `Project 19` | `Project 20` |
 |:----:|:----:|:----:|:----:|
 | [Matrix Calculator]() | [Company System]() | [Grid Games System]() | [Library System]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/matrix-calculator.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/company-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/grid-games-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/library-system.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/matrix-calculator.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/company-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/grid-games-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/library-system.jpg">|
 
 |`Project 21` | `Project 22` | `Project 23` | `Project 24` |
 |:----:|:----:|:----:|:----:|
 | [Bank System]() | [Champions League System]() | [Hospital System]() | [Project Management System]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
 
 |`Project 25` | `Project 26` | `Project 27` | `Project 28` |
 |:----:|:----:|:----:|:----:|
 | [University System]() | [Cinema System]() | [E-Commerce System]() | [City System]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/university-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cinema-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/e-commerce-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/city-system.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/university-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cinema-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/e-commerce-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/city-system.jpg">|
 
 |`Project 29` | `Project 30` | `Project 31` | `Project 32` |
 |:----:|:----:|:----:|:----:|
 | [Airport System]() | [Building System]() | [Radio System]() | [Transportation System]() |
-|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/airport-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/building-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/radio-system.jpg">|<img width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg">|
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/airport-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/building-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/radio-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg">|
 
 
 <br>
