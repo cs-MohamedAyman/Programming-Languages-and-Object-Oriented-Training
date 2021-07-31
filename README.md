@@ -11,13 +11,16 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 <br>
 <br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
+<br>
+<br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures) `3 hrs`/`Lecture`
 
 ### `Python Programming Language` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Python Basics and Functions
 #### `Lecture 01` - [Python Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -28,7 +31,6 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 06` - [Functions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Python Collections and Strings
 #### `Lecture 07` - [Strings](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -41,7 +43,6 @@ Programming Languages and Object Oriented Training for computer science students
 ### `Cpp Programming Language` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` C++ Basics and Pointers
 #### `Lecture 01` - [Cpp Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -52,7 +53,6 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 06` - [Pointers and References](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` C++ Arrays and Functions
 #### `Lecture 07` - [Arrays](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -65,7 +65,6 @@ Programming Languages and Object Oriented Training for computer science students
 ### `Object Oriented` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Object Oriented Programming
 #### `Lecture 01` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -74,7 +73,6 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 04` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Files and Standard Libraries
 #### `Lecture 05` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -83,13 +81,17 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Lecture 08` - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<br>
+<br>
 <br>
 
 ## [`Assignments`]() `10 hrs`/`Assignment`
 
 ### `Programming Languages` Assignments
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 
 #### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
 #### `Assignment 02` - Condition Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
@@ -102,11 +104,10 @@ Programming Languages and Object Oriented Training for computer science students
 #### `Assignment 09` - String Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 #### `Assignment 10` - List/Array Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 
-<br>
-
 ### `Programming Languages` Assignments
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 
 #### `Assignment 11` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
 #### `Assignment 12` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
@@ -179,8 +180,13 @@ Programming Languages and Object Oriented Training for computer science students
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
+<br>
+<br>
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 ### `Python Programming Language and Object Oriented` Textbooks
 * ***Python Tutorial***, Guido van Rossum
@@ -191,6 +197,9 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Python Programming***, John Zelle
 * ***Python 3 Object Oriented Programming***, Dusty Phillips
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+
 ### `Cpp Programming Language and Object Oriented` Textbooks
 * ***C++ Primer Stanley***, B. Lippman and Josee lajoie and Barbara E. Moo
 * ***Effective Modern C++***, Scott Meyers
@@ -200,9 +209,13 @@ Programming Languages and Object Oriented Training for computer science students
 * ***A Complete Guide to Programming in C++***, Ulla Kirch-Prinz
 * ***Object Oriented Programming In C++***, Robert Lafore
 
+<br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 ### `Python Programming Language and Object Oriented` Specializations
 * ***Introduction to Computer Science and Programming Specialization*** by University of London
@@ -211,6 +224,9 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Fundamentals of Computing Specialization*** by Rice University
 * ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+
 ### `Cpp Programming Language and Object Oriented` Specializations
 * ***Introduction to Computer Science and Programming Specialization*** by University of London
 * ***Introduction to Programming in C Specialization*** by Duke University
@@ -218,6 +234,7 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Coding for Everyone: C and C++ Specialization by University of Californ Specialization*** by University of California Santa Cruz
 * ***Programming in C++: A Hands-on Introduction Specialization*** by Codio
 
+<br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
