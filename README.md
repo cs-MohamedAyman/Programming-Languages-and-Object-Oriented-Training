@@ -7,10 +7,15 @@ Programming Languages and Object Oriented Training for computer science students
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+## :dart: `Training Summary`
+### :clock4:            `250` Hours                     :calendar:          `25` Weeks
+### :open_file_folder:  `03` Courses        :clipboard: `06` Modules        :bookmark_tabs: `32` Lectures       :card_index: `200` Sections       :pencil: `70` Quizzes
+### :paperclip:         `32` Practices      :bulb: `20` Assignments         :video_game: `32` Projects
+### :books:             `14` Textbooks      :computer: `10` Coursera Specializations        :film_strip: `24` YouTube Playlists
+### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
+
+
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 <br>
