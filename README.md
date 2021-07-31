@@ -185,10 +185,11 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
+### `Python Programming Language and Object Oriented` Textbooks
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-### `Python Programming Language and Object Oriented` Textbooks
 * ***Python Tutorial***, Guido van Rossum
 * ***Python for Everybody***, Charles R. Severance
 * ***Learning to Program Using Python***, Cody Jackson
@@ -197,10 +198,11 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Python Programming***, John Zelle
 * ***Python 3 Object Oriented Programming***, Dusty Phillips
 
+### `Cpp Programming Language and Object Oriented` Textbooks
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-### `Cpp Programming Language and Object Oriented` Textbooks
 * ***C++ Primer Stanley***, B. Lippman and Josee lajoie and Barbara E. Moo
 * ***Effective Modern C++***, Scott Meyers
 * ***Accelerated C++***, Andrew Koenig and Barbara E. Moo
@@ -214,24 +216,26 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
+### `Python Programming Language and Object Oriented` Specializations
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-### `Python Programming Language and Object Oriented` Specializations
 * ***Introduction to Computer Science and Programming Specialization*** by University of London
 * ***Introduction to Scripting in Python Specialization*** by Rice University
 * ***Python 3 Programming Specialization*** by University of Michigan
 * ***Fundamentals of Computing Specialization*** by Rice University
 * ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
 
+### `Cpp Programming Language and Object Oriented` Specializations
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-### `Cpp Programming Language and Object Oriented` Specializations
 * ***Introduction to Computer Science and Programming Specialization*** by University of London
-* ***Introduction to Programming in C Specialization*** by Duke University
-* ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
 * ***Coding for Everyone: C and C++ Specialization by University of Californ Specialization*** by University of California Santa Cruz
+* ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
+* ***Introduction to Programming in C Specialization*** by Duke University
 * ***Programming in C++: A Hands-on Introduction Specialization*** by Codio
 
 <br>
