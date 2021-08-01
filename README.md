@@ -1,12 +1,15 @@
 # Programming Languages and Object Oriented Training
 
-Programming Languages and Object Oriented Training for computer science students.
-
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
 <br>
+<br>
+<br>
+<br>
+<br>
+
+Programming Languages and Object Oriented Training for computer science students.
 
 ## :dart: `Training Summary`
 ### :clock4:            `250` Hours                     :calendar:          `25` Weeks
@@ -15,9 +18,17 @@ Programming Languages and Object Oriented Training for computer science students
 ### :books:             `14` Textbooks      :computer: `10` Coursera Specializations        :film_strip: `24` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
+<br>
+
+### `Prerequisite Knowledge`
+* [Fundamentals of Computer Science Training](https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training) Repository
+### `Related Repository`
+* [Problem Solving Training](https://github.com/cs-MohamedAyman/Problem-Solving-Training) Repository
+* [Computer Science Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks) Repository
+* [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations) Repository
+* [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists) Repository
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
 <br>
 <br>
 
