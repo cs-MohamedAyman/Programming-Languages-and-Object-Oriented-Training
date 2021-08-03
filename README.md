@@ -11,6 +11,7 @@
 
 Programming Languages and Object Oriented Training for computer science students.
 
+## :dart: `Training Summary`
 ### :clock4:            `250` Hours         :calendar:    `25` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
 ### :bookmark_tabs:     `32` Lectures       :card_index:  `200` Sections                   :pencil:     `70` Quizzes               :paperclip: `600` Practices
 ### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
@@ -104,7 +105,7 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 
 ## [`Assignments`]()
-### :bookmark_tabs: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
 ### `Programming Languages` Assignments
@@ -144,14 +145,6 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
@@ -203,7 +196,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
-### `Python Programming Language and Object Oriented` Textbooks
+### :books: `Python Programming Language and Object Oriented` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
@@ -216,7 +209,7 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Python Programming***, John Zelle
 * ***Python 3 Object Oriented Programming***, Dusty Phillips
 
-### `Cpp Programming Language and Object Oriented` Textbooks
+### :books: `Cpp Programming Language and Object Oriented` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
@@ -234,7 +227,7 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### `Python Programming Language and Object Oriented` Specializations
+### :computer: `Python Programming Language and Object Oriented` Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
@@ -245,7 +238,7 @@ Programming Languages and Object Oriented Training for computer science students
 * ***Fundamentals of Computing Specialization*** by Rice University
 * ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
 
-### `Cpp Programming Language and Object Oriented` Specializations
+### :computer: `Cpp Programming Language and Object Oriented` Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
