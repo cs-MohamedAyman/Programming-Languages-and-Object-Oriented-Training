@@ -11,11 +11,10 @@
 
 Programming Languages and Object Oriented Training for computer science students.
 
-## :dart: `Training Summary`
-### :clock4:            `250` Hours                     :calendar:          `25` Weeks
-### :open_file_folder:  `03` Courses        :clipboard: `06` Modules        :bookmark_tabs: `32` Lectures       :card_index: `200` Sections       :pencil: `70` Quizzes
-### :paperclip:         `32` Practices      :bulb: `20` Assignments         :video_game: `32` Projects
-### :books:             `14` Textbooks      :computer: `10` Coursera Specializations        :film_strip: `24` YouTube Playlists
+### :clock4:            `250` Hours         :calendar:    `25` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
+### :bookmark_tabs:     `32` Lectures       :card_index:  `200` Sections                   :pencil:     `70` Quizzes               :paperclip: `600` Practices
+### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
+### :books:             `14` Textbooks      :computer:    `10` Coursera Specializations    :film_strip: `24` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -31,8 +30,11 @@ Programming Languages and Object Oriented Training for computer science students
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 <br>
+<br>
 
-## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures) `3 hrs`/`Lecture`
+## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
+<br>
 
 ### `Python Programming Language` Lectures
 
@@ -100,9 +102,10 @@ Programming Languages and Object Oriented Training for computer science students
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 <br>
-<br>
 
-## [`Assignments`]() `10 hrs`/`Assignment`
+## [`Assignments`]()
+### :bookmark_tabs: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+<br>
 
 ### `Programming Languages` Assignments
 
@@ -139,12 +142,12 @@ Programming Languages and Object Oriented Training for computer science students
 <br>
 <br>
 
-## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) `10 hrs`/`Project`
+## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) 
+### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
 <br>
 <br>
 <br>
@@ -196,7 +199,6 @@ Programming Languages and Object Oriented Training for computer science students
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
-<br>
 <br>
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
