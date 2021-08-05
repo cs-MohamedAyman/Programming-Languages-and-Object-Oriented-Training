@@ -385,10 +385,6 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Aggregation Relationship
 </details>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
-### `Module 2` Files and Standard Libraries
-
 #### `Lecture 05` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
   <summary>Agenda</summary><br>
@@ -398,33 +394,46 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Abstract Class
   - Interface
   - Data Abstraction
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+
+### `Module 2` Files and Standard Libraries
+
+#### `Lecture 06` - [Templates and STLs](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Templates
+  - Generic Functions using Template
+  - Generic Class using Template
+  - Non-type Parameters for Templates
+  - Multi-type Generics
+  - Advantages vs. Disadvantages of Using Templates
+</details>
+
+#### `Lecture 07` - [Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Standard Libraries
+  - Mathematical Libraries
+  - Date and Time Libraries
+  - Collections Libraries
+</details>
+
+#### `Lecture 08` - [Modules](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Modules
+  - Locating Modules 
+  - Namespaces and Scoping 
+  - Packages
   - UML Class Diagram
 </details>
 
-#### `Lecture 06` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
-<details>
-  <summary>Python Agenda</summary><br>
-
-  - Modules in Python
-  - Counter Module
-  - DefaultDict Module
-  - DateTime Module
-  - Timedelta Module
-  - Calendar Module
-</details>
-
-<details>
-  <summary>C++ Agenda</summary><br>
-
-  - Modules in C++
-  - Cmath Module
-  - Random Module
-  - Numeric Module
-  - Ctime Module
-  - C++ Templates
-</details>
-
-#### `Lecture 07` - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
+#### `Lecture 09` - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
   <summary>Agenda</summary><br>
 
@@ -432,9 +441,10 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Text files
   - CSV files
   - Json files
+  - XML files
 </details>
 
-#### `Lecture 08` - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
+#### `Lecture 10` - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
   <summary>Agenda</summary><br>
 

@@ -13,9 +13,9 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## :dart: `Training Summary`
 ### :clock4:            `250` Hours         :calendar:    `25` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
-### :bookmark_tabs:     `32` Lectures       :card_index:  `200` Sections                   :pencil:     `70` Quizzes               :paperclip: `600` Practices
-### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
-### :books:             `14` Textbooks      :computer:    `10` Coursera Specializations    :film_strip: `24` YouTube Playlists
+### :bookmark_tabs:     `34` Lectures       :card_index:  `200` Sections                   :pencil:            `70` Quizzes        :paperclip: `550` Practices
+### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game:        `32` Projects       :bookmark:  `320` Tasks
+### :books:             `14` Textbooks      :computer:    `10` Coursera Specializations    :film_strip:        `30` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -90,21 +90,23 @@ Programming Languages and Object Oriented Training for computer science students
 #### Lecture 02 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 #### Lecture 03 - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 #### Lecture 04 - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 05 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 ### `Module 2` Files and Standard Libraries
-#### Lecture 05 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 06 - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 07 - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 08 - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 06 - [Templates and STLs](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 07 - [Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 08 - [Modules](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 09 - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+#### Lecture 10 - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 <br>
 
-## [`Assignments`]()
+## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
