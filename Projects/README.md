@@ -12,6 +12,8 @@ Programming Languages and Object Oriented Training Projects for computer science
 <br>
 <br>
 
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg">
 
 ## `Project 01` [Tic Tac Toe Game]()
