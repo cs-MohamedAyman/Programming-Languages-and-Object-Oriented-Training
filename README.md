@@ -12,10 +12,13 @@
 Programming Languages and Object Oriented Training for computer science students.
 
 ## :dart: `Training Summary`
-### :clock4:            `250` Hours         :calendar:    `25` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
-### :bookmark_tabs:     `34` Lectures       :card_index:  `200` Sections                   :pencil:            `70` Quizzes        :paperclip: `550` Practices
-### :bulb:              `25` Assignments    :label:       `200` Tasks                      :video_game:        `40` Projects       :bookmark:  `400` Tasks
-### :books:             `15` Textbooks      :computer:    `10` Coursera Specializations    :film_strip:        `30` YouTube Playlists
+
+| :clock4:        | `300` | Hours       | :calendar:         | `30`  | Weeks    | :open_file_folder: | `3`  | Courses  | :clipboard:  | `6`   | Modules   |
+|:---------------:|:-----:|:-----------:|:------------------:|:-----:|:--------:|:------------------:|:----:|:--------:|:------------:|:-----:|:---------:|
+| :bookmark_tabs: | `35`  | Lectures    | :card_index:       | `210` | Sections | :pencil:           | `70` | Quizzes  | :paperclip:  | `525` | Practices |
+| :bulb:          | `25`  | Assignments | :label:            | `250` | Tasks    | :video_game:       | `40` | Projects | :bookmark:   | `400` | Tasks     |
+| :books:         | `15`  | Textbooks   | :desktop_computer: | `5`   | Udacity  | :computer:         | `10` | Coursera | :film_strip: | `10`  | YouTube   |
+
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
