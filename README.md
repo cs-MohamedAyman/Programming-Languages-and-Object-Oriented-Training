@@ -13,11 +13,11 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## :dart: `Training Summary`
 
-| :clock4:        | `300` | Hours       | :calendar:         | `30`  | Weeks    | :open_file_folder: | `3`  | Courses  | :clipboard:  | `6`   | Modules   |
-|:---------------:|:-----:|:-----------:|:------------------:|:-----:|:--------:|:------------------:|:----:|:--------:|:------------:|:-----:|:---------:|
-| :bookmark_tabs: | `35`  | Lectures    | :card_index:       | `210` | Sections | :pencil:           | `70` | Quizzes  | :paperclip:  | `525` | Practices |
-| :bulb:          | `25`  | Assignments | :label:            | `250` | Tasks    | :video_game:       | `40` | Projects | :bookmark:   | `400` | Tasks     |
-| :books:         | `15`  | Textbooks   | :desktop_computer: | `5`   | Udacity  | :computer:         | `10` | Coursera | :film_strip: | `10`  | YouTube   |
+| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`  | :open_file_folder:  Courses  | `6`   | :clipboard:   Modules   |
+|:-----:|:---------------------------:|:-----:|:---------------------------:|:----:|:----------------------------:|:-----:|:-----------------------:|
+| `35`  | :bookmark_tabs: Lectures    | `210` | :card_index:       Sections | `70` | :pencil:            Quizzes  | `525` | :paperclip:   Practices |
+| `25`  | :bulb:          Assignments | `250` | :label:            Tasks    | `40` | :video_game:        Projects | `400` | :bookmark:    Tasks     |
+| `15`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10` | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
