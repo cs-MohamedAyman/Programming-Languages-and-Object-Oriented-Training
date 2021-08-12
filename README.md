@@ -232,11 +232,6 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### :computer: `Python Programming Language and Object Oriented` Specializations
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
 <table>
     <thead>
         <tr>
@@ -392,24 +387,6 @@ Programming in Python: A Hands-on Introduction
                 <td><a href="https://www.coursera.org/learn/object-oriented-python">Object-Oriented Python: Inheritance and Encapsulation</a></td>
                 <td align="center">10</td>
             </tr>
-    </tbody>
-</table>
-
-
-### :computer: `Cpp Programming Language and Object Oriented` Specializations
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
-<table>
-    <thead>
-        <tr>
-            <th width="40%">Specialization</th>
-            <th width="60%">Course Name</th>
-            <th>Hrs</th>
-        </tr>
-    </thead>
-    <tbody>
             <tr>
                 <td rowspan=4 align=center>
 Introductory C Programming  
