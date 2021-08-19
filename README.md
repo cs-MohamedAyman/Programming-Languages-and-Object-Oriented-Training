@@ -30,7 +30,7 @@ Programming Languages and Object Oriented Training for computer science students
   * [Lectures](#Lectures)
     * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
     * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
-    * [Object Oriented Lectures](Object-Oriented-Lectures)
+    * [Object Oriented Lectures](#Object-Oriented-Lectures)
   * [Assignments](#Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
