@@ -23,9 +23,6 @@ Programming Languages and Object Oriented Training for computer science students
 
 <br>
 
-### `Prerequisite Knowledge`
-* [Fundamentals of Computer Science Training](https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training) Repository
-
 ## Table of Contents
   * [Lectures](#Lectures)
     * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
@@ -36,6 +33,8 @@ Programming Languages and Object Oriented Training for computer science students
   * [Textbooks](#Textbooks)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
+
+<br>
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
