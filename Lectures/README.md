@@ -3,18 +3,23 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 Programming Languages and Object Oriented Training Lectures for computer science students.
 
+## Table of Contents
+  * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
+    * [Module 1 Python Basics and Functions](#Module-1-Python-Basics-and-Functions)
+    * [Module 2 Python Collections and Strings](#Module-2-Python-Collections-and-Strings)
+  * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
+    * [Module 1 Cpp Basics and Pointers](#Module-1-Cpp-Basics-and-Pointers)
+    * [Module 2 Cpp Arrays and Functions](#Module-2-Cpp-Arrays-and-Functions)
+  * [Object Oriented Lectures](#Object-Oriented-Lectures)
+    * [Module 1 Object Oriented Programming](#Module-1-Object-Oriented-Programming)
+    * [Module 2 Files and Standard Libraries](#Module-2-Files-and-Standard-Libraries)
+
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ## `Python Programming Language` Lectures
 
@@ -175,7 +180,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 
-### `Module 1` C++ Basics and Pointers
+### `Module 1` Cpp Basics and Pointers
 
 #### `Lecture 01` - [Cpp Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
@@ -252,7 +257,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 
-### `Module 2` C++ Arrays and Functions
+### `Module 2` Cpp Arrays and Functions
 
 #### `Lecture 07` - [Arrays](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
