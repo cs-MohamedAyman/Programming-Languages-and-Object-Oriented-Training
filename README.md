@@ -361,12 +361,13 @@ Programming Languages and Object Oriented Training for computer science students
         <tr>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
-<td align=center width="33%"></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a></td>
+</td>
         </tr>
         <tr>
 <td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="200"></img></td>
 <td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="200"></img></td>
-<td align=center width="33%"></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="200"></img></td>
         </tr>
     </tbody>
 </table>
