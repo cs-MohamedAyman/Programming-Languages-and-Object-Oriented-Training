@@ -28,9 +28,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 1` Python Basics and Functions
 
-#### `Lecture 01` - [Python Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Python Overview</a></summary><br>
 
   - History of Python
   - Interpreter vs. Compiler
@@ -40,9 +39,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Quotation and Comments
 </details>
 
-#### `Lecture 02` - [Variable Types](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Variable Types</a></summary><br>
   
   - Python Variables
   - Python Numbers
@@ -54,9 +52,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Data Type Conversion
 </details>
 
-#### `Lecture 03` - [Basic Operations](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Basic Operations</a></summary><br>
   
   - Arithmetic Operators
   - Comparison Operators
@@ -68,9 +65,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Operators Precedence
 </details>
 
-#### `Lecture 04` - [Conditions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Conditions</a></summary><br>
   
   - Decision making Definition
   - IF Statement
@@ -80,9 +76,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Single Statement Suites
 </details>
 
-#### `Lecture 05` - [Loops](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Loops</a></summary><br>
   
   - Loop Definition
   - While Loop Statements
@@ -93,9 +88,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Nested Loops
 </details>
 
-#### `Lecture 06` - [Functions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Functions</a></summary><br>
   
   - Function Definition
   - Function Calls and Return Statement
@@ -111,9 +105,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 2` Python Collections and Strings
 
-#### `Lecture 07` - [Strings](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Strings</a></summary><br>
   
   - Introduction to String
   - Basic String Operations
@@ -122,9 +115,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Built-in String Functions
 </details>
 
-#### `Lecture 08` - [Lists](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Lists</a></summary><br>
   
   - Introduction to List
   - Basic List Operations
@@ -133,9 +125,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Built-in List Functions
 </details>
 
-#### `Lecture 09` - [Tuples](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Tuples</a></summary><br>
   
   - Introduction to Tuple
   - Basic Tuple Operations
@@ -144,9 +135,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Built-in Tuple Functions
 </details>
 
-#### `Lecture 10` - [Dictionaries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Dictionaries</a></summary><br>
   
   - Introduction to Dictionary
   - Basic Dictionary Operations
@@ -155,9 +145,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Built-in Dictionary Functions
 </details>
 
-#### `Lecture 11` - [Sets](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 11 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Sets</a></summary><br>
   
   - Introduction to Set
   - Basic Set Operations
@@ -166,9 +155,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Built-in Set Functions
 </details>
 
-#### `Lecture 12` - [Numbers](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 12 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Python-Programming-Language">Numbers</a></summary><br>
   
   - Numbers in Python
   - Math Module
@@ -183,9 +171,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 1` Cpp Basics and Pointers
 
-#### `Lecture 01` - [Cpp Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Cpp Overview</a></summary><br>
 
   - History of C++
   - Interpreter vs. Compiler
@@ -195,9 +182,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Quotation and Comments
 </details>
 
-#### `Lecture 02` - [Variable Types](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Variable Types</a></summary><br>
 
   - C++ Variables
   - C++ Integers
@@ -207,9 +193,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Data Type Conversion
 </details>
 
-#### `Lecture 03` - [Basic Operations](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Basic Operations</a></summary><br>
 
   - Arithmetic Operators
   - Comparison Operators
@@ -219,9 +204,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Operators Precedence
 </details>
 
-#### `Lecture 04` - [Conditions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Conditions</a></summary><br>
 
   - Decision making Definition
   - IF Statement
@@ -232,9 +216,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Switch Statement
 </details>
 
-#### `Lecture 05` - [Loops](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Loops</a></summary><br>
 
   - Loop Definition
   - While Loop Statements
@@ -244,9 +227,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Loop Control Statements
 </details>
 
-#### `Lecture 06` - [Pointers and References](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Pointers and References</a></summary><br>
 
   - Introduction to Pointers
   - Incrementing and Decrementing Pointers
@@ -260,9 +242,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 2` Cpp Arrays and Functions
 
-#### `Lecture 07` - [Arrays](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Arrays</a></summary><br>
 
   - Introduction to Array
   - Declaring and Initializing Arrays
@@ -272,9 +253,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Multi-dimensional Dynamic Arrays
 </details>
 
-#### `Lecture 08` - [Functions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Functions</a></summary><br>
 
   - Function Definition
   - Function Calls and Return Statement
@@ -286,9 +266,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Higher Order Functions
 </details>
 
-#### `Lecture 09` - [Strings](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Strings</a></summary><br>
 
   - Introduction to String
   - Basic String Operations
@@ -299,9 +278,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Manipulating Functions
 </details>
 
-#### `Lecture 10` - [Structures](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Structures</a></summary><br>
 
   - Introduction to Structures
   - Accessing Struct Members
@@ -313,9 +291,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Passing Structure by Reference and Value
 </details>
 
-#### `Lecture 11` - [Enumerations and Unions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 11 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Enumerations and Unions</a></summary><br>
 
   - Introduction to Enums and Unions
   - Macro and Typedef
@@ -325,9 +302,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Passing Enums and Unions by Reference and Value
 </details>
 
-#### `Lecture 12` - [Numbers](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 12 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Cpp-Programming-Language">Numbers</a></summary><br>
 
   - Numbers in C++
   - Math Module
@@ -342,9 +318,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 1` Object Oriented Programming
 
-#### `Lecture 01` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Object Oriented Overview</a></summary><br>
 
   - Introduction to OOP
   - Classes and Objects
@@ -354,10 +329,9 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Class Destructor
 </details>
 
-#### `Lecture 02` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
-
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Data Encapsulation</a></summary><br>
+ 
   - Introduction to Data Encapsulation
   - Private Variables
   - Private Methods
@@ -366,9 +340,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Class Prototyping
 </details>
 
-#### `Lecture 03` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Operator Overloading and Function Overloading</a></summary><br>
 
   - Introduction to Operator Overloading
   - Input/Output Operators Overloading
@@ -379,9 +352,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Function Overloading
 </details>
 
-#### `Lecture 04` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Inheritance and Function Overriding</a></summary><br>
 
   - Introduction to Inheritance
   - Access Modifiers
@@ -391,9 +363,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Aggregation Relationship
 </details>
 
-#### `Lecture 05` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Polymorphism and Abstract Class</a></summary><br>
 
   - Introduction to Polymorphism
   - Abstract Method
@@ -406,9 +377,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ### `Module 2` Files and Standard Libraries
 
-#### `Lecture 06` - [Templates and STLs](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Templates and STLs</a></summary><br>
 
   - Introduction to Templates
   - Generic Functions using Template
@@ -418,9 +388,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Advantages vs. Disadvantages of Using Templates
 </details>
 
-#### `Lecture 07` - [Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Standard Libraries</a></summary><br>
 
   - Introduction to Standard Libraries
   - Mathematical Libraries
@@ -428,9 +397,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - Collections Libraries
 </details>
 
-#### `Lecture 08` - [Modules](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Modules</a></summary><br>
 
   - Introduction to Modules
   - Locating Modules 
@@ -439,9 +407,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - UML Class Diagram
 </details>
 
-#### `Lecture 09` - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">File Handling</a></summary><br>
 
   - Introduction to File Handling
   - Text files
@@ -450,9 +417,8 @@ Programming Languages and Object Oriented Training Lectures for computer science
   - XML files
 </details>
 
-#### `Lecture 10` - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures/Object-Oriented">Exception Handling</a></summary><br>
 
   - Introduction to Exception Handling
   - Types of Exceptions
