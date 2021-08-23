@@ -32,9 +32,9 @@ Programming Languages and Object Oriented Training for computer science students
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25px">25</td>
+            <td align=center width="25px">30</td>
             <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">250</td>
+            <td align=center width="25px">300</td>
             <td align=center width="175px">🏷️ Tasks</td>
             <td align=center width="25px">40</td>
             <td align=center width="175px">🎮 Projects</td>
