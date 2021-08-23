@@ -82,70 +82,155 @@ Programming Languages and Object Oriented Training for computer science students
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg"></img>
 <br>
 
 ### `Python Programming Language` Lectures
 
-### `Module 1` Python Basics and Functions
-#### Lecture 01 - [Python Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 02 - [Variable Types](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 03 - [Basic Operations](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 04 - [Conditions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 05 - [Loops](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 06 - [Functions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Python Basics and Functions</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">Python Collections and Strings</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Python Overview</a></td>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Lists</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Tuples</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Dictionaries</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
+            <td align=center width="125px">Lecture 11</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Sets</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
+            <td align=center width="125px">Lecture 12</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
+        </tr>
+    </tbody>
+</table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-
-### `Module 2` Python Collections and Strings
-#### Lecture 07 - [Strings](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 08 - [Lists](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 09 - [Tuples](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 10 - [Dictionaries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 11 - [Sets](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 12 - [Numbers](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg"></img>
+<br>
 
 ### `Cpp Programming Language` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Cpp Basics and Pointers</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">Cpp Arrays and Functions</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Cpp Overview</a></td>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Arrays</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Dictionaries</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
+            <td align=center width="125px">Lecture 11</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Enumerations and Unions</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Pointers and References</a></td>
+            <td align=center width="125px">Lecture 12</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
+        </tr>
+    </tbody>
+</table>
 
-### `Module 1` C++ Basics and Pointers
-#### Lecture 01 - [Cpp Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 02 - [Variable Types](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 03 - [Basic Operations](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 04 - [Conditions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 05 - [Loops](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 06 - [Pointers and References](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-
-### `Module 2` C++ Arrays and Functions
-#### Lecture 07 - [Arrays](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 08 - [Functions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 09 - [Strings](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 10 - [Structures](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 11 - [Enumerations and Unions](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 12 - [Numbers](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<br>
 
 ### `Object Oriented` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
-### `Module 1` Object Oriented Programming
-#### Lecture 01 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 02 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 03 - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 04 - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 05 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-
-### `Module 2` Files and Standard Libraries
-#### Lecture 06 - [Templates and STLs](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 07 - [Standard Libraries](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 08 - [Modules](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 09 - [File Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-#### Lecture 10 - [Exception Handling](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Object Oriented Programming</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">Files and Standard Libraries</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Object Oriented Overview</a></td>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Templates and STLs</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Data Encapsulation</a></td>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Standard Libraries</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Operator Overloading and Function Overloading</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Modules</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Inheritance and Function Overriding</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">File Handling</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Polymorphism and Abstract Class</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Exception Handling</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
