@@ -251,9 +251,9 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">A Complete Guide to Programming in Cpp Ulla Kirch Prinz</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Accelerated Cpp Andrew Koenig and Barbara E. Moo</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Cpp How to Program Paul Deitel</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">A Complete Guide to Programming in Cpp Ulla Kirch Prinz</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Accelerated Cpp Andrew Koenig and Barbara E. Moo</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp How to Program Paul Deitel</a></td>
         </tr>
         <tr>
 <td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
@@ -266,9 +266,9 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Cpp The Complete Reference Herbert Schildt</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Cpp TutorialsPoint</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Effective Modern Cpp Scott Meyers</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference Herbert Schildt</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp TutorialsPoint</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Effective Modern Cpp Scott Meyers</a></td>
         </tr>
         <tr>
 <td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
