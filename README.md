@@ -213,7 +213,7 @@ Programming Languages and Object Oriented Training for computer science students
         </tr>
         <tr>
             <td align=center width="125px">Lecture 03</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Operator Overloading and Function Overloading</a></td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Operator and Function Overloading</a></td>
             <td align=center width="125px">Lecture 08</td>
             <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Modules</a></td>
         </tr>
