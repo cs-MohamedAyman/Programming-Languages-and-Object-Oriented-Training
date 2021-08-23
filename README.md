@@ -3,21 +3,56 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 Programming Languages and Object Oriented Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`  | :open_file_folder:  Courses  | `6`   | :clipboard:   Modules   |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:----:|:----------------------------:|:-----:|:-----------------------:|
-| `35`  | :bookmark_tabs: Lectures    | `210` | :card_index:       Sections | `70` | :pencil:            Quizzes  | `525` | :paperclip:   Practices |
-| `25`  | :bulb:          Assignments | `250` | :label:            Tasks    | `40` | :video_game:        Projects | `400` | :bookmark:    Tasks     |
-| `15`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10` | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🕓 Hours</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">📆 Weeks</td>
+            <td align=center width="25px">3</td>
+            <td align=center width="175px">📂 Courses</td>
+            <td align=center width="25px">6</td>
+            <td align=center width="175px">📋 Modules</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">35</td>
+            <td align=center width="175px">📑 Lectures</td>
+            <td align=center width="25px">210</td>
+            <td align=center width="175px">📇 Sections</td>
+            <td align=center width="25px">70</td>
+            <td align=center width="175px">📝 Quizzes</td>
+            <td align=center width="25px">525</td>
+            <td align=center width="175px">📎 Practices</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">25</td>
+            <td align=center width="175px">💡 Assignments</td>
+            <td align=center width="25px">250</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🔖 Tasks</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">15</td>
+            <td align=center width="175px">📚 Textbooks</td>
+            <td align=center width="25px">5</td>
+            <td align=center width="175px">🖥️ Udacity</td>
+            <td align=center width="25px">10</td>
+            <td align=center width="175px">💻 Coursera</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">🎞️ YouTube</td>
+        </tr>
+    </tbody>
+</table>
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
@@ -29,25 +64,28 @@ Programming Languages and Object Oriented Training for computer science students
     * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
     * [Object Oriented Lectures](#Object-Oriented-Lectures)
   * [Assignments](#Assignments)
+    * [Python Programming Language Assignments](#Python-Programming-Language-Assignments)
+    * [Cpp Programming Language Assignments](#Cpp-Programming-Language-Assignments)
+    * [Object Oriented Lectures](#Object-Oriented-Lectures)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
+    * [Python Programming Language and Object Oriented Textbooks](#Python-Programming-Language-and-Object-Oriented-Textbooks)
+    * [Cpp Programming Language and Object Oriented Textbooks](#Cpp-Programming-Language-and-Object-Oriented-Textbooks)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
 
 <br>
-
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
-<br>
-<br>
+<br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
-### `Python Programming Language` Lectures
-
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
+<br>
+
+### `Python Programming Language` Lectures
 
 ### `Module 1` Python Basics and Functions
 #### Lecture 01 - [Python Overview](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -111,17 +149,19 @@ Programming Languages and Object Oriented Training for computer science students
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
-<br>
-<br>
+<br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
-### `Programming Languages` Assignments
-
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+
+<br>
+
+### `Programming Languages` Assignments
+
 
 #### Assignment 01 - Basic Operator Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
 #### Assignment 02 - Condition Problems in [codeforces-phase-1-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)
@@ -134,10 +174,12 @@ Programming Languages and Object Oriented Training for computer science students
 #### Assignment 09 - String Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 #### Assignment 10 - List/Array Problems in [codeforces-phase-1-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-2)
 
-### `Programming Languages` Assignments
-
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
+
+<br>
+
+### `Programming Languages` Assignments
 
 #### Assignment 11 - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
 #### Assignment 12 - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
@@ -150,8 +192,7 @@ Programming Languages and Object Oriented Training for computer science students
 #### Assignment 19 - String Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
 #### Assignment 20 - List/Array Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
 
-<br>
-<br>
+<br><br>
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
@@ -286,244 +327,47 @@ Programming Languages and Object Oriented Training for computer science students
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
 <table>
-    <thead>
-        <tr>
-            <th width="40%">Specialization</th>
-            <th width="60%">Course Name</th>
-            <th>Hrs</th>
-        </tr>
-    </thead>
     <tbody>
-            <tr>
-                <td rowspan=3 align=center>
-Introduction to Computer Science and Programming  
-<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/how-computers-work">How Computers Work</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/mathematics-for-computer-science">Mathematics for Computer Science</a></td>
-                <td align="center">45</td>
-            </tr>
-            <tr>
-                <td rowspan=6 align=center>
-Computational Thinking & Block Programming in K-12 Education  
-<a href="https://www.coursera.org/specializations/computational-thinking-block-programming-k12-education">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/computational-thinking-k12-educators-sequences-loops">Sequences and Loops</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/block-programming-k12-educators-variables-nested-loops">Variables and Nested Loops</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/block-programming-k12-educators-conditional-loops-if-statement">Conditional Loops and If Statements</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/block-programming-k12-educators-nested-if-statement-compound-conditionals">Nested If Statements and Compound Conditionals</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/block-programming-k12-educators-abstraction-methods">Abstraction, Methods, and Lists</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/computational-thinking-k12-educators-capstone">Computational Thinking for K-12 Educators Capstone</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Introduction to Scripting in Python  
-<a href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-programming">Python Programming Essentials</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-representation">Python Data Representations</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-analysis">Python Data Analysis</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-visualization">Python Data Visualization</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Python 3 Programming  
-<a href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-basics">Python Basics</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-functions-files-dictionaries">Python Functions, Files, and Dictionaries</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-collection-processing-python">Data Collection and Processing with Python</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-classes-inheritance">Python Classes and Inheritance</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-project">Python Project: pillow, tesseract, and opencv</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=7 align=center>
-Fundamentals of Computing  
-<a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/interactive-python-2">An Introduction to Interactive Programming in Python (Part 2)</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/principles-of-computing-1">Principles of Computing (Part 1)</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/principles-of-computing-2">Principles of Computing (Part 2)</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/algorithmic-thinking-1">Algorithmic Thinking (Part 1)</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/algorithmic-thinking-2">Algorithmic Thinking (Part 2)</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/fundamentals-of-computing-capstone">The Fundamentals of Computing Capstone Exam</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Programming in Python: A Hands-on Introduction  
-<a href="https://www.coursera.org/specializations/hands-on-python">Specialization</a> by Codio<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/codio-python-basics">Python Basics: Selection and Iteration</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files">Python Basic Structures: Lists, Strings, and Files</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-object-basics">Python Object Basics: Functions, Recursion, and Objects</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/object-oriented-python">Object-Oriented Python: Inheritance and Encapsulation</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Introductory C Programming  
-<a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/writing-running-fixing-code">Writing, Running, and Fixing Code in C</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/pointers-arrays-recursion">Pointers, Arrays, and Recursion</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/interacting-system-managing-memory">Interacting with the System and Managing Memory</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming  
-<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Coding for Everyone: C and C++ Specialization by University of Californ 
-<a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/c-structured-programming">C for Everyone: Structured Programming</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/c-plus-plus-a">C++ For C Programmers, Part A</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/c-plus-plus-b">C++ For C Programmers, Part B</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Programming in C++: A Hands-on Introduction  
-<a href="https://www.coursera.org/specializations/hands-on-cpp">Specialization</a> by Codio<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/codio-cpp-basics">C++ Basics: Selection and Iteration</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files">C++ Basic Structures: Vectors, Pointers, Strings, and Files</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cpp-object-basics">C++ Object Basics: Functions, Recursion, and Objects</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/object-oriented-cpp">Object-Oriented C++: Inheritance and Encapsulation</a></td>
-                <td align="center">10</td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Computer Science and Programming Specialization by University of London</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking & Block Programming in K-12 Education Specialization by University of California San Diego</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Fundamentals of Computing Specialization by Rice University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking with Beginning C Programming Specialization by University of Colorado Boulder</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of Californ Specialization by University of California Santa Cruz</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
+<td align=center width="33%"></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="200"></img></td>
+<td align=center width="33%"></td>
+        </tr>
     </tbody>
 </table>
 
