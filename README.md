@@ -1,8 +1,8 @@
 # Programming Languages and Object Oriented Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg"></img>
 <br><br><br><br><br>
 
 Programming Languages and Object Oriented Training for computer science students.
