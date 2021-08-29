@@ -371,44 +371,36 @@ Programming Languages and Object Oriented Training for computer science students
 
 <img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
-|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
-|:----:|:----:|:----:|:----:|
 | [Tic Tac Toe Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Connect Four Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Gomoku Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [8 Puzzle Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg">|
 
-|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
-|:----:|:----:|:----:|:----:|
 | [SOS Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Dots and Boxes Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Snakes and Ladders Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Sudoku Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg">|
 
-|`Project 09` | `Project 10` | `Project 11` | `Project 12` |
-|:----:|:----:|:----:|:----:|
 | [Match Cards Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Reversi Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Draughts Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Minesweeper Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg">|
 
-|`Project 13` | `Project 14` | `Project 15` | `Project 16` |
-|:----:|:----:|:----:|:----:|
 | [2048 Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Ultimate Tic Tac Toe Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Battleship Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Multi Sudoku Game](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg">|
 
-|`Project 17` | `Project 18` | `Project 19` | `Project 20` |
-|:----:|:----:|:----:|:----:|
 | [Matrix Calculator](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Company System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Grid Games System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Library System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/matrix-calculator.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/company-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/grid-games-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/library-system.jpg">|
 
-|`Project 21` | `Project 22` | `Project 23` | `Project 24` |
-|:----:|:----:|:----:|:----:|
 | [Bank System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Champions League System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Hospital System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Project Management System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
 
-|`Project 25` | `Project 26` | `Project 27` | `Project 28` |
-|:----:|:----:|:----:|:----:|
 | [University System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Cinema System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [E-Commerce System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [City System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/university-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cinema-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/e-commerce-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/city-system.jpg">|
 
-|`Project 29` | `Project 30` | `Project 31` | `Project 32` |
-|:----:|:----:|:----:|:----:|
 | [Airport System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Building System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Radio System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) | [Transportation System](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) |
+|:----:|:----:|:----:|:----:|
 |<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/airport-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/building-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/radio-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg">|
 
 
