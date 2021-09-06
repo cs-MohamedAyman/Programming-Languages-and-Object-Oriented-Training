@@ -9,14 +9,14 @@ Programming Languages and Object Oriented Training Lectures for computer science
 
 ## Table of Contents
   * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
-    * [Module 1 Python Basics and Functions](#Module-1-Python-Basics-and-Functions)
-    * [Module 2 Python Collections and Strings](#Module-2-Python-Collections-and-Strings)
+    * [Module 1: Python Basics and Functions](#Module-1-Python-Basics-and-Functions)
+    * [Module 2: Python Collections and Strings](#Module-2-Python-Collections-and-Strings)
   * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
-    * [Module 1 Cpp Basics and Pointers](#Module-1-Cpp-Basics-and-Pointers)
-    * [Module 2 Cpp Arrays and Functions](#Module-2-Cpp-Arrays-and-Functions)
+    * [Module 1: Cpp Basics and Pointers](#Module-1-Cpp-Basics-and-Pointers)
+    * [Module 2: Cpp Arrays and Functions](#Module-2-Cpp-Arrays-and-Functions)
   * [Object Oriented Lectures](#Object-Oriented-Lectures)
-    * [Module 1 Object Oriented Programming](#Module-1-Object-Oriented-Programming)
-    * [Module 2 Files and Standard Libraries](#Module-2-Files-and-Standard-Libraries)
+    * [Module 1: Object Oriented Programming](#Module-1-Object-Oriented-Programming)
+    * [Module 2: Files and Standard Libraries](#Module-2-Files-and-Standard-Libraries)
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
