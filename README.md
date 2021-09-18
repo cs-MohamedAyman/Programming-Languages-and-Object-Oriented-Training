@@ -429,11 +429,6 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Quick-Python-Book-Naomi-R.-Ceder.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Think-Python-Allen-B.-Downey.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Effective Python, Brett Slatkin</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Programming, John Zelle</a></td>
@@ -444,11 +439,6 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Programming-John-Zelle.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python3-TutorialsPoint.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Learning to Program Using Python, Cody Jackson</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Tutorial, Guido van Rossum</a></td>
