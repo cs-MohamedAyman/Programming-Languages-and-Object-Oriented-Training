@@ -471,11 +471,6 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference, Herbert Schildt</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Object-Oriented Programming in C++, Robert Lafore</a></td>
@@ -486,11 +481,6 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-TutorialsPoint.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp Primer, Stanley B. Lippman</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">The Cpp Programming Language, Bjarne Stroustrup</a></td>
