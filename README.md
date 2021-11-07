@@ -169,7 +169,7 @@ Programming Languages and Object Oriented Training for computer science students
             <td align=center width="125px">Lecture 04</td>
             <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
             <td align=center width="125px">Lecture 10</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Dictionaries</a></td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Structures</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Lecture 05</td>
