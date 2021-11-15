@@ -32,7 +32,7 @@ Programming Languages and Object Oriented Training for computer science students
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25px">30</td>
+            <td align=center width="25px">26</td>
             <td align=center width="175px">💡 Assignments</td>
             <td align=center width="25px">300</td>
             <td align=center width="175px">🏷️ Tasks</td>
@@ -257,63 +257,51 @@ Programming Languages and Object Oriented Training for computer science students
         </tr>
         <tr>
             <td align=center width="125px">Assignment 01</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 11</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
+            <td align=center width="125px">Assignment 09</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 02</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 12</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
+            <td align=center width="125px">Assignment 10</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 03</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 13</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
+            <td align=center width="125px">Assignment 11</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 04</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 14</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems III in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
+            <td align=center width="125px">Assignment 12</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 05</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II in Codeforces</a></td>
-            <td align=center width="125px">Assignment 15</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems IV in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
+            <td align=center width="125px">Assignment 13</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 06</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 16</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems III in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
+            <td align=center width="125px">Assignment 14</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 07</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II in Codeforces</a></td>
-            <td align=center width="125px">Assignment 17</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems IV in Codeforces</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems I</a></td>
+            <td align=center width="125px">Assignment 15</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems in HackerRank</a></td>
-            <td align=center width="125px">Assignment 18</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems in HackerEarth</a></td>
-        </tr>
-        <tr>
-            <td align=center width="125px">Assignment 09</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems in HackerRank</a></td>
-            <td align=center width="125px">Assignment 19</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems in HackerEarth</a></td>
-        </tr>
-        <tr>
-            <td align=center width="125px">Assignment 10</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems in HackerRank</a></td>
-            <td align=center width="125px">Assignment 20</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems in HackerEarth</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems I</a></td>
+            <td align=center width="125px">Assignment 16</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems II</a></td>
         </tr>
     </tbody>
 </table>
