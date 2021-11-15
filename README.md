@@ -381,10 +381,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">8 Puzzle Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">SOS Game</a></td>
@@ -393,10 +393,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Sudoku Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Match Cards Game</a></td>
@@ -405,10 +405,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Minesweeper Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">2048 Game</a></td>
@@ -417,10 +417,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Multi Sudoku Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
@@ -429,10 +429,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Matrix Calculator</a></td>
@@ -441,10 +441,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Library System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/matrix-calculator.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/company-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/grid-games-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/library-system.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/matrix-calculator.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/company-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/grid-games-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/library-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Bank System</a></td>
@@ -453,10 +453,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Project Management System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">University System</a></td>
@@ -465,10 +465,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">City System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/university-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cinema-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/e-commerce-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/city-system.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/university-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cinema-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/e-commerce-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/city-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Airport System</a></td>
@@ -477,10 +477,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Transportation System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/airport-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/building-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/radio-system.jpg" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/airport-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/building-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/radio-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
@@ -489,10 +489,10 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -518,9 +518,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Think Python, Allen B. Downey</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Kids-Jason-R.-Briggs.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Quick-Python-Book-Naomi-R.-Ceder.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Think-Python-Allen-B.-Downey.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Kids-Jason-R.-Briggs.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Quick-Python-Book-Naomi-R.-Ceder.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Think-Python-Allen-B.-Downey.jpg"></td>
         </tr>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Effective Python, Brett Slatkin</a></td>
@@ -528,9 +528,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python3 TutorialsPoint</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Python-Brett-Slatkin.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Programming-John-Zelle.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python3-TutorialsPoint.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Python-Brett-Slatkin.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Programming-John-Zelle.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python3-TutorialsPoint.jpg"></td>
         </tr>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Learning to Program Using Python, Cody Jackson</a></td>
@@ -538,9 +538,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python for Everybody, Charles R. Severance</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Learning-to-Program-Using-Python-Cody-Jackson.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Tutorial-Guido-van-Rossum.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Everybody-Charles-R.-Severance.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Learning-to-Program-Using-Python-Cody-Jackson.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Tutorial-Guido-van-Rossum.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Everybody-Charles-R.-Severance.jpg"></td>
         </tr>
     </tbody>
 </table>
@@ -560,9 +560,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp How to Program, Paul Deitel</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
         </tr>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference, Herbert Schildt</a></td>
@@ -570,9 +570,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp TutorialsPoint</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-TutorialsPoint.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-TutorialsPoint.jpg"></td>
         </tr>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp Primer, Stanley B. Lippman</a></td>
@@ -580,9 +580,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Effective Modern Cpp, Scott Meyers</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-Primer-Stanley-B.-Lippman.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Cpp-Programming-Language-Bjarne-Stroustrup.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Modern-Cpp-Scott-Meyers.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-Primer-Stanley-B.-Lippman.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Cpp-Programming-Language-Bjarne-Stroustrup.jpg"></td>
+<td align=center width="350"><img align="center" width="75%" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Modern-Cpp-Scott-Meyers.jpg"></td>
         </tr>
     </tbody>
 </table>
@@ -600,9 +600,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="225"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="60%"></img></td>
         </tr>
         <tr>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
@@ -610,9 +610,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="225"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="60%"></img></td>
         </tr>
         <tr>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
@@ -620,9 +620,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of Californ Specialization by University of California Santa Cruz</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="225"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="60%"></img></td>
         </tr>
         <tr>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
@@ -630,9 +630,9 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="225"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="225"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="60%"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="60%"></img></td>
         </tr>
     </tbody>
 </table>
