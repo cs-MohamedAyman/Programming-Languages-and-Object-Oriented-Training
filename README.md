@@ -629,3 +629,78 @@ Programming Languages and Object Oriented Training for computer science students
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">freeCodeCamp.org Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">edureka! Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">thenewboston Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Tutorials Point (India) Ltd. Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">CodeWithHarry Playlists</a></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/freeCodeCamp.org.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/edureka!.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/thenewboston.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tutorials%20Point%20(India)%20Ltd..jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/CodeWithHarry.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Telusko Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">ProgrammingKnowledge Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Simplilearn Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Derek Banas Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Clever Programmer Playlists</a></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Telusko.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/ProgrammingKnowledge%20.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simplilearn.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Derek%20Banas.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Clever%20Programmer.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Naresh i Technologies Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">The Net Ninja Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Intellipaat	 Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Tech With Tim Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">easytuts4you Playlists</a></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Naresh%20i%20Technologies.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/The%20Net%20Ninja.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Intellipaat.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tech%20With%20Tim.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/easytuts4you.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">by The Cherno Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">GeeksforGeeks Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Geeky Shows Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Caleb Curry Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Sundeep Saradhi Kanthety Playlists</a></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/by%20The%20Cherno.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/GeeksforGeeks.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Geeky%20Shows.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Caleb%20Curry.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sundeep%20Saradhi%20Kanthety.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">LearningLad Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">C++ by Saurabh Shukla Sir Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Harshit vashisth Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Simple Snippets Playlists</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Amulya's Academy Playlists</a></td>
+        </tr>
+        <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/LearningLad.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/C++%20by%20Saurabh%20Shukla%20Sir.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Harshit%20vashisth.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simple%20Snippets.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Amulya's%20Academy.jpg" width="80%"></img></td>
+        </tr>
+    </tbody>
+</table>
