@@ -641,9 +641,9 @@ Programming Languages and Object Oriented Training for computer science students
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/freeCodeCamp.org.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/edureka!.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/edureka.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/thenewboston.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tutorials%20Point%20(India)%20Ltd..jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tutorials%20Point%20(India)%20Ltd.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/CodeWithHarry.jpg" width="80%"></img></td>
         </tr>
         <tr>
@@ -655,7 +655,7 @@ Programming Languages and Object Oriented Training for computer science students
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Telusko.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/ProgrammingKnowledge%20.jpg" width="80%"></img></td>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/ProgrammingKnowledge.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simplilearn.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Derek%20Banas.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Clever%20Programmer.jpg" width="80%"></img></td>
@@ -689,15 +689,15 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sundeep%20Saradhi%20Kanthety.jpg" width="80%"></img></td>
         </tr>
         <tr>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Microsoft Developer Playlists</a></td>
 <td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">LearningLad Playlists</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">C++ by Saurabh Shukla Sir Playlists</a></td>
 <td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Harshit vashisth Playlists</a></td>
 <td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Simple Snippets Playlists</a></td>
 <td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Amulya's Academy Playlists</a></td>
         </tr>
         <tr>
+<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Microsoft%20Developer.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/LearningLad.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/C++%20by%20Saurabh%20Shukla%20Sir.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Harshit%20vashisth.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simple%20Snippets.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Amulya's%20Academy.jpg" width="80%"></img></td>
