@@ -237,7 +237,7 @@ Programming Languages and Object Oriented Training for computer science students
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
-### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `20 Tasks`
 <br>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg"></img>
