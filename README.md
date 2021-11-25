@@ -250,57 +250,57 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 01</td>
+            <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
-            <td align=center width="125px">Assignment 09</td>
+            <td align=center width="100px">09</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 02</td>
+            <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
-            <td align=center width="125px">Assignment 10</td>
+            <td align=center width="100px">10</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 03</td>
+            <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
-            <td align=center width="125px">Assignment 11</td>
+            <td align=center width="100px">11</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 04</td>
+            <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
-            <td align=center width="125px">Assignment 12</td>
+            <td align=center width="100px">12</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 05</td>
+            <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
-            <td align=center width="125px">Assignment 13</td>
+            <td align=center width="100px">13</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 06</td>
+            <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
-            <td align=center width="125px">Assignment 14</td>
+            <td align=center width="100px">14</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 07</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems I</a></td>
-            <td align=center width="125px">Assignment 15</td>
+            <td align=center width="100px">15</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 08</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems I</a></td>
-            <td align=center width="125px">Assignment 16</td>
+            <td align=center width="100px">16</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems II</a></td>
         </tr>
     </tbody>
@@ -314,39 +314,39 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 01</td>
+            <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis I</a></td>
-            <td align=center width="125px">Assignment 06</td>
+            <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 02</td>
+            <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis I</a></td>
-            <td align=center width="125px">Assignment 07</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 03</td>
+            <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations I</a></td>
-            <td align=center width="125px">Assignment 08</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 04</td>
+            <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation I</a></td>
-            <td align=center width="125px">Assignment 09</td>
+            <td align=center width="100px">09</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation III</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 05</td>
+            <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation II</a></td>
-            <td align=center width="125px">Assignment 10</td>
+            <td align=center width="100px">10</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation IV</a></td>
         </tr>
     </tbody>
@@ -571,44 +571,40 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Computer Science and Programming Specialization by University of London</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking & Block Programming in K-12 Education Specialization by University of California San Diego</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Computer Science and Programming Specialization by University of London</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking & Block Programming in K-12 Education Specialization by University of California San Diego</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="60%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Fundamentals of Computing Specialization by Rice University</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Fundamentals of Computing Specialization by Rice University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking with Beginning C Programming Specialization by University of Colorado Boulder</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="60%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Thinking with Beginning C Programming Specialization by University of Colorado Boulder</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of Californ Specialization by University of California Santa Cruz</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of Californ Specialization by University of California Santa Cruz</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a></td>
         </tr>
         <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="60%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a></td>
-        </tr>
-        <tr>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="60%"></img></td>
-<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="60%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
