@@ -41,16 +41,6 @@ Programming Languages and Object Oriented Training for computer science students
             <td align=center width="25px">400</td>
             <td align=center width="175px">🔖 Tasks</td>
         </tr>
-        <tr>
-            <td align=center width="25px">15</td>
-            <td align=center width="175px">📚 Textbooks</td>
-            <td align=center width="25px">5</td>
-            <td align=center width="175px">🖥️ Udacity</td>
-            <td align=center width="25px">10</td>
-            <td align=center width="175px">💻 Coursera</td>
-            <td align=center width="25px">30</td>
-            <td align=center width="175px">🎞️ YouTube</td>
-        </tr>
     </tbody>
 </table>
 
