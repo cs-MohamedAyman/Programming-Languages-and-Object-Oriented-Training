@@ -1,4 +1,4 @@
-# Programming Languages and Object Oriented Training Lectures
+# Programming Languages and Object Oriented Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
