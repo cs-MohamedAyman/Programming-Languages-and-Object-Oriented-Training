@@ -7,6 +7,9 @@
 
 Programming Languages and Object Oriented Training Lectures for computer science students.
 
+<br>
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+
 ## Table of Contents
   * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
     * [Module 1: Python Basics and Functions](#Module-1-Python-Basics-and-Functions)
