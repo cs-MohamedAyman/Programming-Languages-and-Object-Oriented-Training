@@ -21,9 +21,7 @@ Programming Languages and Object Oriented Training Lectures for computer science
     * [Module 1: Object Oriented Programming](#Module-1-Object-Oriented-Programming)
     * [Module 2: Files and Standard Libraries](#Module-2-Files-and-Standard-Libraries)
 
-<br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br><br><br><br>
+<br><br>
 
 ## `Python Programming Language` Lectures
 
