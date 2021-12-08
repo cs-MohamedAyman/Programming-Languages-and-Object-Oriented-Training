@@ -36,9 +36,10 @@ Programming Languages and Object Oriented Training Assignments for computer scie
     * [Assignment 09 - System Implementation](#Assignment-09---System-Implementation)
     * [Assignment 10 - System Implementation](#Assignment-10---System-Implementation)
 
-<br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
-<br><br><br><br>
+<br><br>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg"></img>
 
 ## `Programming Languages` Assignments
 
@@ -88,6 +89,8 @@ Programming Languages and Object Oriented Training Assignments for computer scie
 ### Assignment 12 - Arrays and Strings Problems
 - Arrays and Strings Problems in HackerRank [sheet cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp)
 - Arrays and Strings Problems in HackerRank [sheet python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python)
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 ## `Object Oriented` Assignments
 
