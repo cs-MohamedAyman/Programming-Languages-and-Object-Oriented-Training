@@ -32,9 +32,9 @@ Programming Languages and Object Oriented Training for computer science students
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25px">26</td>
+            <td align=center width="25px">22</td>
             <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">300</td>
+            <td align=center width="25px">200</td>
             <td align=center width="175px">🏷️ Tasks</td>
             <td align=center width="25px">40</td>
             <td align=center width="175px">🎮 Projects</td>
@@ -258,50 +258,38 @@ Programming Languages and Object Oriented Training for computer science students
         <tr>
             <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
-            <td align=center width="100px">09</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
-            <td align=center width="100px">10</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
-            <td align=center width="100px">11</td>
+            <td align=center width="100px">09</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
-            <td align=center width="100px">12</td>
+            <td align=center width="100px">10</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
-            <td align=center width="100px">13</td>
+            <td align=center width="100px">11</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
-            <td align=center width="100px">14</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems II</a></td>
-        </tr>
-        <tr>
-            <td align=center width="100px">07</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems I</a></td>
-            <td align=center width="100px">15</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Problems II</a></td>
-        </tr>
-        <tr>
-            <td align=center width="100px">08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems I</a></td>
-            <td align=center width="100px">16</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Standard Libraries Problems II</a></td>
+            <td align=center width="100px">12</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Loops Problems II</a></td>
         </tr>
     </tbody>
 </table>
