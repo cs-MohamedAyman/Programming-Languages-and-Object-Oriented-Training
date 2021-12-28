@@ -1,8 +1,8 @@
 # Programming Languages and Object Oriented Assignments
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
 <br><br><br><br><br>
 
 Programming Languages and Object Oriented Training Assignments for computer science students.
@@ -38,8 +38,8 @@ Programming Languages and Object Oriented Training Assignments for computer scie
 
 <br><br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/python.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cpp.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg"></img>
 
 ## `Programming Languages` Assignments
 
@@ -90,7 +90,7 @@ Programming Languages and Object Oriented Training Assignments for computer scie
 - Arrays and Strings Problems in HackerRank [sheet cpp](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-cpp)
 - Arrays and Strings Problems in HackerRank [sheet python](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/hackerrank-phase-1-python)
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
 
 ## `Object Oriented` Assignments
 
