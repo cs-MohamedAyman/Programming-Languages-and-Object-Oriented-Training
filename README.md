@@ -437,28 +437,29 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/transportation-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Clinic System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">School System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Theater System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Opera System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/clinic-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/school-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/theater-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/opera-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md"></a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Railway Station System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Petrol Station System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Hotel System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md">Cooking System
+</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/railway-station-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/petrol-station-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hotel-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cooking-system.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
