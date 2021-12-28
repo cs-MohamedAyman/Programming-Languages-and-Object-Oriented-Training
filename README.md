@@ -14,7 +14,7 @@ Programming Languages and Object Oriented Training for computer science students
         <tr>
             <td align=center width="25px">300</td>
             <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">25</td>
+            <td align=center width="25px">30</td>
             <td align=center width="175px">📆 Weeks</td>
             <td align=center width="25px">3</td>
             <td align=center width="175px">📂 Courses</td>
@@ -24,15 +24,15 @@ Programming Languages and Object Oriented Training for computer science students
         <tr>
             <td align=center width="25px">35</td>
             <td align=center width="175px">📑 Lectures</td>
-            <td align=center width="25px">210</td>
+            <td align=center width="25px">200</td>
             <td align=center width="175px">📇 Sections</td>
             <td align=center width="25px">70</td>
             <td align=center width="175px">📝 Quizzes</td>
-            <td align=center width="25px">525</td>
+            <td align=center width="25px">500</td>
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25px">22</td>
+            <td align=center width="25px">20</td>
             <td align=center width="175px">💡 Assignments</td>
             <td align=center width="25px">200</td>
             <td align=center width="175px">🏷️ Tasks</td>
@@ -300,32 +300,26 @@ Programming Languages and Object Oriented Training for computer science students
         <tr>
             <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis I</a></td>
-            <td align=center width="100px">06</td>
+            <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis I</a></td>
-            <td align=center width="100px">07</td>
+            <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations I</a></td>
-            <td align=center width="100px">08</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations II</a></td>
         </tr>
         <tr>
             <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation I</a></td>
-            <td align=center width="100px">09</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation III</a></td>
-        </tr>
-        <tr>
-            <td align=center width="100px">05</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation II</a></td>
-            <td align=center width="100px">10</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation IV</a></td>
         </tr>
     </tbody>
 </table>
