@@ -809,3 +809,202 @@ Programming Languages and Object Oriented Training Projects for computer science
   
 </details>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/clinic-system.jpg">
+
+## `Project 33` [Clinic System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/school-system.jpg">
+
+## `Project 34` [School System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/theater-system.jpg">
+
+## `Project 35` [Theater System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/opera-system.jpg">
+
+## `Project 36` [Opera System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/railway-station-system.jpg">
+
+## `Project 37` [Railway Station System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/petrol-station-system.jpg">
+
+## `Project 38` [Petrol Station System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hotel-system.jpg">
+
+## `Project 39` [Hotel System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cooking-system.jpg">
+
+## `Project 40` [Cooking System]()
+
+<details>
+  <summary>Project Description</summary><br>
+  
+</details>
+
+<details>
+  <summary>Project Tasks</summary><br>
+  
+  ### `Task 01`
+  ### `Task 02`
+  ### `Task 03`
+  ### `Task 04`
+  ### `Task 05`
+  ### `Task 06`
+  ### `Task 07`
+  ### `Task 08`
+  ### `Task 09`
+  ### `Task 10`
+  
+</details>
