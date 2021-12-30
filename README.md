@@ -47,7 +47,7 @@ Programming Languages and Object Oriented Training for computer science students
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
 
 ## Table of Contents
   * [Lectures](#Lectures)
@@ -65,7 +65,7 @@ Programming Languages and Object Oriented Training for computer science students
   * [YouTube-Playlists](#YouTube-Playlists)
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice1.jpg">
 <br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
@@ -223,7 +223,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice2.jpg">
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
@@ -330,7 +330,7 @@ Programming Languages and Object Oriented Training for computer science students
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 <br>
 
-<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/educational-projects.jpg">
 
 <table>
     <tbody>
