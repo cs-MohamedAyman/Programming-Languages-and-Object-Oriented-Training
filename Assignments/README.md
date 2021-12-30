@@ -8,7 +8,7 @@
 Programming Languages and Object Oriented Training Assignments for computer science students.
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
 
 ## Table of Contents
   * [Programming Languages Assignments](#Programming-Languages-Assignments)
@@ -98,9 +98,7 @@ Programming Languages and Object Oriented Training Assignments for computer scie
 ### Assignment 02 - Entity Analysis
 ### Assignment 03 - Entity Relations
 ### Assignment 04 - System Implementation
-### Assignment 05 - System Implementation
-### Assignment 06 - System Analysis
-### Assignment 07 - Entity Analysis
-### Assignment 08 - Entity Relations
-### Assignment 09 - System Implementation
-### Assignment 10 - System Implementation
+### Assignment 05 - System Analysis
+### Assignment 06 - Entity Analysis
+### Assignment 07 - Entity Relations
+### Assignment 08 - System Implementation
