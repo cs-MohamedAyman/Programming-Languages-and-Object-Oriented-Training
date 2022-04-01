@@ -1,8 +1,8 @@
 # Programming Languages and Object Oriented Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
 <br><br><br><br><br>
 
 Programming Languages and Object Oriented Training for computer science students.
@@ -12,34 +12,44 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-            <td align=center width="25px">300</td>
-            <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">30</td>
-            <td align=center width="175px">📆 Weeks</td>
-            <td align=center width="25px">3</td>
-            <td align=center width="175px">📂 Courses</td>
-            <td align=center width="25px">6</td>
-            <td align=center width="175px">📋 Modules</td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/clock.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Hours</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/calendar.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Weeks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/folder.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>3<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/clipboard.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>6<br>Modules</h3></td>
         </tr>
-        <tr>
-            <td align=center width="25px">35</td>
-            <td align=center width="175px">📑 Lectures</td>
-            <td align=center width="25px">200</td>
-            <td align=center width="175px">📇 Sections</td>
-            <td align=center width="25px">70</td>
-            <td align=center width="175px">📝 Quizzes</td>
-            <td align=center width="25px">500</td>
-            <td align=center width="175px">📎 Practices</td>
         </tr>
-        <tr>
-            <td align=center width="25px">20</td>
-            <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">200</td>
-            <td align=center width="175px">🏷️ Tasks</td>
-            <td align=center width="25px">40</td>
-            <td align=center width="175px">🎮 Projects</td>
-            <td align=center width="25px">400</td>
-            <td align=center width="175px">🔖 Tasks</td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bookmark.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Lectures</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cardindex.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>180<br>Sections</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/memo.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>60<br>Quizzes</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/paperclip.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Practices</h3></td>
+        </tr>
+        </tr>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/lightbulb.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Assignments</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/label.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>150<br>Tasks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/gamepad.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Projects</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bookmark2.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Tasks</h3></td>
+        </tr>
+        </tr>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/youtube.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/datacamp.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/coursera.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/textbooks.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Textbooks</h3></td>
         </tr>
     </tbody>
 </table>
@@ -55,169 +65,170 @@ Programming Languages and Object Oriented Training for computer science students
     * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
     * [Object Oriented Lectures](#Object-Oriented-Lectures)
   * [Assignments](#Assignments)
-    * [Programming Languages Assignments](#Programming-Languages-Assignments)
+    * [Python Programming Language Assignments](#Python-Programming-Language-Assignments)
+    * [Cpp Programming Language Assignments](#Cpp-Programming-Language-Assignments)
     * [Object Oriented Assignments](#Object-Oriented-Assignments)
   * [Educational-Projects](#Educational-Projects)
-  * [Textbooks](#Textbooks)
-    * [Python Programming Language and Object Oriented Textbooks](#Python-Programming-Language-and-Object-Oriented-Textbooks)
-    * [Cpp Programming Language and Object Oriented Textbooks](#Cpp-Programming-Language-and-Object-Oriented-Textbooks)
-  * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
+  * [Coursera-Specializations](#Coursera-Specializations)
+  * [Textbooks](#Textbooks)
+    * [Python Programming Language Textbooks](#Python-Programming-Language-Textbooks)
+    * [Cpp Programming Language Textbooks](#Cpp-Programming-Language-Textbooks)
+    * [Object Oriented Textbooks](#Object-Oriented-Textbooks)
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice1.jpg">
 <br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
-### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
-<br>
+### :bookmark_tabs: `1 Lecture` :clock4: `2 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `10 Practices` 
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg"></img>
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
 
 ### `Python Programming Language` Lectures
 
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px">Module 1</td>
-            <td align=center width="350px">Python Basics and Functions</td>
-            <td align=center width="125px">Module 2</td>
-            <td align=center width="350px">Python Collections and Strings</td>
+<td align=center width="125px">Module 1</td>
+<td align=center width="400px">Python Basics and Functions</td>
+<td align=center width="125px">Module 2</td>
+<td align=center width="400px">Python Collections and Strings</td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 01</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Python Overview</a></td>
-            <td align=center width="125px">Lecture 07</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
+<td align=center width="125px">Lecture 01</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Python Overview</a></td>
+<td align=center width="125px">Lecture 07</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 02</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
-            <td align=center width="125px">Lecture 08</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Lists</a></td>
+<td align=center width="125px">Lecture 02</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
+<td align=center width="125px">Lecture 08</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Lists</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 03</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
-            <td align=center width="125px">Lecture 09</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Tuples</a></td>
+<td align=center width="125px">Lecture 03</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
+<td align=center width="125px">Lecture 09</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Tuples</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 04</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
-            <td align=center width="125px">Lecture 10</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Dictionaries</a></td>
+<td align=center width="125px">Lecture 04</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
+<td align=center width="125px">Lecture 10</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Dictionaries</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 05</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
-            <td align=center width="125px">Lecture 11</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Sets</a></td>
+<td align=center width="125px">Lecture 05</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
+<td align=center width="125px">Lecture 11</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Sets</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 06</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
-            <td align=center width="125px">Lecture 12</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
+<td align=center width="125px">Lecture 06</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
+<td align=center width="125px">Lecture 12</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
         </tr>
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg"></img>
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
 
 ### `Cpp Programming Language` Lectures
 
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px">Module 1</td>
-            <td align=center width="350px">Cpp Basics and Pointers</td>
-            <td align=center width="125px">Module 2</td>
-            <td align=center width="350px">Cpp Arrays and Functions</td>
+<td align=center width="125px">Module 1</td>
+<td align=center width="400px">Cpp Basics and Pointers</td>
+<td align=center width="125px">Module 2</td>
+<td align=center width="400px">Cpp Arrays and Functions</td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 01</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Cpp Overview</a></td>
-            <td align=center width="125px">Lecture 07</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Arrays</a></td>
+<td align=center width="125px">Lecture 01</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Cpp Overview</a></td>
+<td align=center width="125px">Lecture 07</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Arrays</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 02</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
-            <td align=center width="125px">Lecture 08</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
+<td align=center width="125px">Lecture 02</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Variable Types</a></td>
+<td align=center width="125px">Lecture 08</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Functions</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 03</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
-            <td align=center width="125px">Lecture 09</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
+<td align=center width="125px">Lecture 03</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Basic Operations</a></td>
+<td align=center width="125px">Lecture 09</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Strings</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 04</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
-            <td align=center width="125px">Lecture 10</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Structures</a></td>
+<td align=center width="125px">Lecture 04</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Conditions</a></td>
+<td align=center width="125px">Lecture 10</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Structures</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 05</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
-            <td align=center width="125px">Lecture 11</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Enumerations and Unions</a></td>
+<td align=center width="125px">Lecture 05</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Loops</a></td>
+<td align=center width="125px">Lecture 11</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Enumerations and Unions</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 06</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Pointers and References</a></td>
-            <td align=center width="125px">Lecture 12</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
+<td align=center width="125px">Lecture 06</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Pointers and References</a></td>
+<td align=center width="125px">Lecture 12</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Numbers</a></td>
         </tr>
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
 
 ### `Object Oriented` Lectures
 
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px">Module 1</td>
-            <td align=center width="350px">Object Oriented Programming</td>
-            <td align=center width="125px">Module 2</td>
-            <td align=center width="350px">Files and Standard Libraries</td>
+<td align=center width="125px">Module 1</td>
+<td align=center width="400px">Object Oriented Programming</td>
+<td align=center width="125px">Module 2</td>
+<td align=center width="400px">Files and Standard Libraries</td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 01</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Object Oriented Overview</a></td>
-            <td align=center width="125px">Lecture 06</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Templates and STLs</a></td>
+<td align=center width="125px">Lecture 01</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Object Oriented Overview</a></td>
+<td align=center width="125px">Lecture 06</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Templates and STLs</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 02</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Data Encapsulation</a></td>
-            <td align=center width="125px">Lecture 07</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Standard Libraries</a></td>
+<td align=center width="125px">Lecture 02</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Data Encapsulation</a></td>
+<td align=center width="125px">Lecture 07</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Standard Libraries</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 03</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Operator and Function Overloading</a></td>
-            <td align=center width="125px">Lecture 08</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Modules</a></td>
+<td align=center width="125px">Lecture 03</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Operator and Function Overloading</a></td>
+<td align=center width="125px">Lecture 08</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Modules</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 04</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Inheritance and Function Overriding</a></td>
-            <td align=center width="125px">Lecture 09</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">File Handling</a></td>
+<td align=center width="125px">Lecture 04</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Inheritance and Function Overriding</a></td>
+<td align=center width="125px">Lecture 09</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">File Handling</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Lecture 05</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Polymorphism and Abstract Class</a></td>
-            <td align=center width="125px">Lecture 10</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Exception Handling</a></td>
+<td align=center width="125px">Lecture 05</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Polymorphism and Abstract Class</a></td>
+<td align=center width="125px">Lecture 10</td>
+<td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures">Exception Handling</a></td>
         </tr>
     </tbody>
 </table>
@@ -227,99 +238,148 @@ Programming Languages and Object Oriented Training for computer science students
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
-### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `20 Tasks`
-<br>
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg"></img>
+### :bulb: `1 Assignment` :clock4: `5 Hours` :label: `10 Tasks`
 
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
 
-### `Programming Languages` Assignments
+### `Python Programming Languages` Assignments
 
 <table>
     <tbody>
         <tr>
-            <td align=center width="100px"># Assignment</td>
-            <td align=center width="425px">Assignment Name</td>
-            <td align=center width="100px"># Assignment</td>
-            <td align=center width="425px">Assignment Name</td>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="100px">01</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
-            <td align=center width="100px">07</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
+<td align=center width="100px">01</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
+<td align=center width="100px">07</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">02</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
-            <td align=center width="100px">08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
+<td align=center width="100px">02</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
+<td align=center width="100px">08</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">03</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
-            <td align=center width="100px">09</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
+<td align=center width="100px">03</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
+<td align=center width="100px">09</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">04</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
-            <td align=center width="100px">10</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
+<td align=center width="100px">04</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
+<td align=center width="100px">10</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">05</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
-            <td align=center width="100px">11</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
+<td align=center width="100px">05</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
+<td align=center width="100px">11</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">06</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
-            <td align=center width="100px">12</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Loops Problems II</a></td>
+<td align=center width="100px">06</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
+<td align=center width="100px">12</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Loops Problems II</a></td>
         </tr>
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg"></img>
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+
+### `C++ Programming Languages` Assignments
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
+        </tr>
+        <tr>
+<td align=center width="100px">01</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems I</a></td>
+<td align=center width="100px">07</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Basic Operator Problems II</a></td>
+        </tr>
+        <tr>
+<td align=center width="100px">02</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems I</a></td>
+<td align=center width="100px">08</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Condition Problems II</a></td>
+        </tr>
+        <tr>
+<td align=center width="100px">03</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems I</a></td>
+<td align=center width="100px">09</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Loop Problems II</a></td>
+        </tr>
+        <tr>
+<td align=center width="100px">04</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems I</a></td>
+<td align=center width="100px">10</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">String Problems II</a></td>
+        </tr>
+        <tr>
+<td align=center width="100px">05</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems I</a></td>
+<td align=center width="100px">11</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">List / Array Problems II</a></td>
+        </tr>
+        <tr>
+<td align=center width="100px">06</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Conditionals and Loops Problems I</a></td>
+<td align=center width="100px">12</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Arrays and Strings Loops Problems II</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
 
 ### `Object Oriented` Assignments
 
 <table>
     <tbody>
         <tr>
-            <td align=center width="100px"># Assignment</td>
-            <td align=center width="425px">Assignment Name</td>
-            <td align=center width="100px"># Assignment</td>
-            <td align=center width="425px">Assignment Name</td>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
+<td align=center width="100px"># Assignment</td>
+<td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="100px">01</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis I</a></td>
-            <td align=center width="100px">05</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis II</a></td>
+<td align=center width="100px">01</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis I</a></td>
+<td align=center width="100px">05</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Analysis II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">02</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis I</a></td>
-            <td align=center width="100px">06</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis II</a></td>
+<td align=center width="100px">02</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis I</a></td>
+<td align=center width="100px">06</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Analysis II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">03</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations I</a></td>
-            <td align=center width="100px">07</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations II</a></td>
+<td align=center width="100px">03</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations I</a></td>
+<td align=center width="100px">07</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">Entity Relations II</a></td>
         </tr>
         <tr>
-            <td align=center width="100px">04</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation I</a></td>
-            <td align=center width="100px">08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation II</a></td>
+<td align=center width="100px">04</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation I</a></td>
+<td align=center width="100px">08</td>
+<td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments">System Implementation II</a></td>
         </tr>
     </tbody>
 </table>
@@ -328,8 +388,8 @@ Programming Languages and Object Oriented Training for computer science students
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
-<br>
 
+<br>
 <img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/educational-projects.jpg">
 
 <table>
@@ -459,131 +519,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br><br>
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg"></img>
-<br>
-
-## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
-
-<br>
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg"></img>
-
-### `Python Programming Language and Object Oriented` Textbooks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python for Kids, Jason R. Briggs</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">The Quick Python Book Naomi R. Ceder</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Think Python, Allen B. Downey</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Effective Python, Brett Slatkin</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Kids-Jason-R.-Briggs.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Quick-Python-Book-Naomi-R.-Ceder.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Think-Python-Allen-B.-Downey.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Python-Brett-Slatkin.jpg"></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Programming, John Zelle</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Learning to Program Using Python, Cody Jackson</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Tutorial, Guido van Rossum</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python for Everybody, Charles R. Severance</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Programming-John-Zelle.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Learning-to-Program-Using-Python-Cody-Jackson.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Tutorial-Guido-van-Rossum.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-for-Everybody-Charles-R.-Severance.jpg"></td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg"></img>
-
-### `Cpp Programming Language and Object Oriented` Textbooks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">A Complete Guide to Programming in Cpp, Ulla Kirch Prinz</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Accelerated Cpp, Andrew Koenig and Barbara E. Moo</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp How to Program, Paul Deitel</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference, Herbert Schildt</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Object-Oriented Programming in C++, Robert Lafore</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Effective Modern Cpp, Scott Meyers</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp Primer, Stanley B. Lippman</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">The Cpp Programming Language, Bjarne Stroustrup</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Effective-Modern-Cpp-Scott-Meyers.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Cpp-Primer-Stanley-B.-Lippman.jpg"></td>
-<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Cpp-Programming-Language-Bjarne-Stroustrup.jpg"></td>
-        </tr>
-    </tbody>
-</table>
-
-<br><br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
-
-## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introduction to Computer Science and Programming Specialization by University of London</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computational Thinking & Block Programming in K-12 Education Specialization by University of California San Diego</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="70%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Fundamentals of Computing Specialization by Rice University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computational Thinking with Beginning C Programming Specialization by University of Colorado Boulder</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of California Santa Cruz</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computer Science: Programming with a Purpose by Princeton University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="70%"></img></td>
-        </tr>
-    </tbody>
-</table>
-
-<br><br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
 
@@ -658,6 +594,159 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Harshit%20vashisth.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simple%20Snippets.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Amulya's%20Academy.jpg" width="80%"></img></td>
+        </tr>
+    </tbody>
+</table>
+
+<br><br>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/coursera.jpg">
+
+## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introduction to Computer Science and Programming Specialization by University of London</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computational Thinking & Block Programming in K-12 Education Specialization by University of California San Diego</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introduction to Scripting in Python Specialization by Rice University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Python 3 Programming Specialization by University of Michigan</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="70%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Fundamentals of Computing Specialization by Rice University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Programming in Python: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Introductory C Programming Specialization by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computational Thinking with Beginning C Programming Specialization by University of Colorado Boulder</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Coding for Everyone: C and C++ Specialization by University of California Santa Cruz</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Programming in C++: A Hands-on Introduction Specialization by Codio</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Computer Science: Programming with a Purpose by Princeton University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="70%"></img></td>
+        </tr>
+    </tbody>
+</table>
+
+<br><br>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/textbooks.jpg">
+
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
+
+### `Python Programming Language` Textbooks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python for Kids, Jason R. Briggs</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">The Quick Python Book Naomi R. Ceder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Think Python, Allen B. Downey</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Effective Python, Brett Slatkin</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Python-for-Kids-Jason-R.-Briggs.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/The-Quick-Python-Book-Naomi-R.-Ceder.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Think-Python-Allen-B.-Downey.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Effective-Python-Brett-Slatkin.jpg"></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Programming, John Zelle</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Learning to Program Using Python, Cody Jackson</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python Tutorial, Guido van Rossum</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/python-programming-language/README.md">Python for Everybody, Charles R. Severance</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Python-Programming-John-Zelle.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Learning-to-Program-Using-Python-Cody-Jackson.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Python-Tutorial-Guido-van-Rossum.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Python-for-Everybody-Charles-R.-Severance.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+
+### `Cpp Programming Language` Textbooks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">A Complete Guide to Programming in Cpp, Ulla Kirch Prinz</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Accelerated Cpp, Andrew Koenig and Barbara E. Moo</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp How to Program, Paul Deitel</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference, Herbert Schildt</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Object-Oriented Programming in C++, Robert Lafore</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Effective Modern Cpp, Scott Meyers</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp Primer, Stanley B. Lippman</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">The Cpp Programming Language, Bjarne Stroustrup</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Effective-Modern-Cpp-Scott-Meyers.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-Primer-Stanley-B.-Lippman.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/The-Cpp-Programming-Language-Bjarne-Stroustrup.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+
+### `Object Oriented` Textbooks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">A Complete Guide to Programming in Cpp, Ulla Kirch Prinz</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Accelerated Cpp, Andrew Koenig and Barbara E. Moo</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp How to Program, Paul Deitel</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp The Complete Reference, Herbert Schildt</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/A-Complete-Guide-to-Programming-in-Cpp-Ulla-Kirch-Prinz.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Accelerated-Cpp-Andrew-Koenig-and-Barbara-E.-Moo.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-How-to-Program-Paul-Deitel.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-The-Complete-Reference-Herbert-Schildt.jpg"></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Object-Oriented Programming in C++, Robert Lafore</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Effective Modern Cpp, Scott Meyers</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">Cpp Primer, Stanley B. Lippman</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/cpp-programming-language/README.md">The Cpp Programming Language, Bjarne Stroustrup</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Object-Oriented-Programming-in-C++-Robert-Lafore.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Effective-Modern-Cpp-Scott-Meyers.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/Cpp-Primer-Stanley-B.-Lippman.jpg"></td>
+<td align=center width="25%"><img align="center" width="90%" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/textbooks-covers/The-Cpp-Programming-Language-Bjarne-Stroustrup.jpg"></td>
         </tr>
     </tbody>
 </table>
