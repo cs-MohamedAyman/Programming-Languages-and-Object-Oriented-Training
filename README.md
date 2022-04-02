@@ -2,6 +2,7 @@
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/c.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg">
 <br><br><br><br><br>
 
@@ -62,18 +63,18 @@ Programming Languages and Object Oriented Training for computer science students
 ## Table of Contents
   * [Lectures](#Lectures)
     * [Python Programming Language Lectures](#Python-Programming-Language-Lectures)
-    * [Cpp Programming Language Lectures](#Cpp-Programming-Language-Lectures)
+    * [C/Cpp Programming Language Lectures](#CCpp-Programming-Language-Lectures)
     * [Object Oriented Lectures](#Object-Oriented-Lectures)
   * [Assignments](#Assignments)
     * [Python Programming Language Assignments](#Python-Programming-Language-Assignments)
-    * [Cpp Programming Language Assignments](#Cpp-Programming-Language-Assignments)
+    * [C/Cpp Programming Language Assignments](#CCpp-Programming-Language-Assignments)
     * [Object Oriented Assignments](#Object-Oriented-Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [YouTube-Playlists](#YouTube-Playlists)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [Textbooks](#Textbooks)
     * [Python Programming Language Textbooks](#Python-Programming-Language-Textbooks)
-    * [Cpp Programming Language Textbooks](#Cpp-Programming-Language-Textbooks)
+    * [C/Cpp Programming Language Textbooks](#CCpp-Programming-Language-Textbooks)
     * [Object Oriented Textbooks](#Object-Oriented-Textbooks)
 
 <br>
@@ -135,10 +136,11 @@ Programming Languages and Object Oriented Training for computer science students
     </tbody>
 </table>
 
-<br>
+<br><br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/c.jpg">
 
-### `Cpp Programming Language` Lectures
+### `C/Cpp Programming Language` Lectures
 
 <table>
     <tbody>
@@ -292,10 +294,11 @@ Programming Languages and Object Oriented Training for computer science students
     </tbody>
 </table>
 
-<br>
+<br><br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/c.jpg">
 
-### `C++ Programming Languages` Assignments
+### `C/C++ Programming Languages` Assignments
 
 <table>
     <tbody>
@@ -683,10 +686,11 @@ Programming Languages and Object Oriented Training for computer science students
     </tbody>
 </table>
 
-<br>
+<br><br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/c.jpg">
 
-### `Cpp Programming Language` Textbooks
+### `C/Cpp Programming Language` Textbooks
 
 <table>
     <tbody>
