@@ -1,8 +1,8 @@
 # Programming Languages and Object Oriented Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg">
 <br><br><br><br><br>
 
 Programming Languages and Object Oriented Training for computer science students.
@@ -12,43 +12,43 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/clock.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clock.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>300<br>Hours</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/calendar.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/calendar.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Weeks</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/folder.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/folder.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>3<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/clipboard.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clipboard.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>6<br>Modules</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bookmark.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>30<br>Lectures</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cardindex.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cardindex.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>180<br>Sections</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/memo.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/memo.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>60<br>Quizzes</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/paperclip.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/paperclip.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>300<br>Practices</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/lightbulb.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lightbulb.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Assignments</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/label.jpg" width="90%"></img></td>
-<td align=center width="15%"><h3>150<br>Tasks</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/gamepad.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/label.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>150<br>Assignments<br>Tasks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/gamepad.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>30<br>Projects</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bookmark2.jpg" width="90%"></img></td>
-<td align=center width="15%"><h3>300<br>Tasks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark2.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Projects<br>Tasks</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/youtube.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/datacamp.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/coursera.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/textbooks.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Textbooks</h3></td>
         </tr>
     </tbody>
@@ -57,7 +57,7 @@ Programming Languages and Object Oriented Training for computer science students
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Lectures](#Lectures)
@@ -77,14 +77,14 @@ Programming Languages and Object Oriented Training for computer science students
     * [Object Oriented Textbooks](#Object-Oriented-Textbooks)
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/practice1.jpg">
 <br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Lectures)
 ### :bookmark_tabs: `1 Lecture` :clock4: `2 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `10 Practices` 
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg">
 
 ### `Python Programming Language` Lectures
 
@@ -136,7 +136,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
 
 ### `Cpp Programming Language` Lectures
 
@@ -188,7 +188,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented.jpg">
 
 ### `Object Oriented` Lectures
 
@@ -234,14 +234,14 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice2.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/practice2.jpg">
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `5 Hours` :label: `10 Tasks`
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg">
 
 ### `Python Programming Languages` Assignments
 
@@ -293,7 +293,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
 
 ### `C++ Programming Languages` Assignments
 
@@ -345,7 +345,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented.jpg">
 
 ### `Object Oriented` Assignments
 
@@ -390,7 +390,7 @@ Programming Languages and Object Oriented Training for computer science students
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 
 <br>
-<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/educational-projects.jpg">
+<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
 
 <table>
     <tbody>
@@ -519,7 +519,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br><br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/youtube.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
 
@@ -599,7 +599,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br><br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/coursera.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
@@ -645,12 +645,12 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br><br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/textbooks.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks.jpg">
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/python.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.jpg">
 
 ### `Python Programming Language` Textbooks
 
@@ -684,7 +684,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/cpp.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.jpg">
 
 ### `Cpp Programming Language` Textbooks
 
@@ -718,7 +718,7 @@ Programming Languages and Object Oriented Training for computer science students
 </table>
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/object-oriented.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented.jpg">
 
 ### `Object Oriented` Textbooks
 
